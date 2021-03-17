@@ -20,9 +20,10 @@ CREATE TABLE composers(
     id INTEGER PRIMARY KEY,
     name TEXT NOT NULL,
     complete_name TEXT NOT NULL,
-    birth_year INTEGER,
-    death_year INTEGER,
+    birth VARCHAR,
+    death VARCHAR,
     epoch TEXT NOT NULL,
+    portrait VARCHAR,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT NULL
 );
