@@ -1,5 +1,7 @@
-{
-    "composers": [
+INSERT INTO composers
+SELECT *
+FROM json_populate_recordset (NULL::composers,
+    '[
         {
             "id": "149",
             "name": "Adams",
@@ -20,8 +22,8 @@
           },
           {
             "id": "216",
-            "name": "Albéniz",
-            "complete_name": "Isaac Albéniz",
+            "name": "Albeniz",
+            "complete_name": "Isaac Albeniz",
             "birth": "1860-01-01",
             "death": "1909-01-01",
             "epoch": "Late Romantic",
@@ -111,7 +113,7 @@
           {
             "id": "125",
             "name": "Bartók",
-            "complete_name": "Béla Bartók",
+            "complete_name": "Bela Bartók",
             "birth": "1881-01-01",
             "death": "1945-01-01",
             "epoch": "20th Century",
@@ -461,8 +463,8 @@
           },
           {
             "id": "127",
-            "name": "d'Indy",
-            "complete_name": "Vincent d'Indy",
+            "name": "d''Indy",
+            "complete_name": "Vincent d''Indy",
             "birth": "1851-01-01",
             "death": "1931-01-01",
             "epoch": "Romantic",
@@ -948,7 +950,7 @@
           {
             "id": "96",
             "name": "Janacek",
-            "complete_name": "Leoš Janáček",
+            "complete_name": "Leos Janacek",
             "birth": "1854-01-01",
             "death": "1928-01-01",
             "epoch": "Late Romantic",
@@ -1980,5 +1982,6 @@
             "epoch": "Late Romantic",
             "portrait": "https://assets.openopus.org/portraits/58765766-1568084962.jpg"
           }
-    ]
-}
+    ]'
+);
+
