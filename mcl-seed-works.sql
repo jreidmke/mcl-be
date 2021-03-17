@@ -1,4 +1,5 @@
-
+{
+  "works": [
     {
       "149": [
         {
@@ -244,7 +245,9 @@
           "id": "16888",
           "genre": "Vocal"
         }
-      ],
+      ]
+    },
+    {
       "130": [
         {
           "title": "Asyla",
@@ -363,7 +366,9 @@
           "id": "28076",
           "genre": "Stage"
         }
-      ],
+      ]
+    },
+     {
       "216": [
         {
           "title": "2 Character Pieces: Spanish National Songs, op. 164",
@@ -896,7 +901,9 @@
           "id": "26903",
           "genre": "Keyboard"
         }
-      ],
+      ]
+    },
+    {
       "27": [
         {
           "title": "12 Balletti à tre, for 2 violins, cello and continuo, op. 3",
@@ -1645,7 +1652,9 @@
           "id": "2134",
           "genre": "Chamber"
         }
-      ],
+      ]
+    },
+    {
       "108": [
         {
           "title": "2 Odes of John Keats, for narrator and piano ",
@@ -1982,4 +1991,5 @@
         }
       ]
     }
-    
+  ]
+}
