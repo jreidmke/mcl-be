@@ -5,7 +5,7 @@ class Composer {
     static async getAll() {
         let composerArr = [];
 
-        const alphaString = "abbcdefghijklmnopqrstuvwxyz"
+        const alphaString = "abcdefghijklmnopqrstuvwxyz"
 
         for(let a of alphaString) {
             const resp = await axios.get(`https://api.openopus.org/composer/list/name/${a}.json`);

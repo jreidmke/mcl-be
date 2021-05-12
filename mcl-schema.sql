@@ -58,29 +58,29 @@ CREATE TABLE list_items(
     updated_at TIMESTAMP DEFAULT NULL
 );
 
-CREATE TABLE recordings(
-    id SERIAL PRIMARY KEY,
-    work_id INTEGER REFERENCES works(id) ON DELETE CASCADE,
-    composer_id INTEGER REFERENCES composers(id) ON DELETE CASCADE,
-    recording_title TEXT NOT NULL,
-    label TEXT,
-    release_year INTEGER,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT NULL
-);
+-- CREATE TABLE recordings(
+--     id SERIAL PRIMARY KEY,
+--     work_id INTEGER REFERENCES works(id) ON DELETE CASCADE,
+--     composer_id INTEGER REFERENCES composers(id) ON DELETE CASCADE,
+--     recording_title TEXT NOT NULL,
+--     label TEXT,
+--     release_year INTEGER,
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     updated_at TIMESTAMP DEFAULT NULL
+-- );
 
-CREATE TABLE performers(
-    id SERIAL PRIMARY KEY,
-    name TEXT NOT NULL,
-    nation_of_origin TEXT NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT NULL
-);
+-- CREATE TABLE performers(
+--     id SERIAL PRIMARY KEY,
+--     name TEXT NOT NULL,
+--     nation_of_origin TEXT NOT NULL,
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     updated_at TIMESTAMP DEFAULT NULL
+-- );
 
-CREATE TABLE recording_performers(
-    id SERIAL PRIMARY KEY,
-    recording_id INTEGER REFERENCES recordings(id) ON DELETE CASCADE,
-    performer_id INTEGER REFERENCES performers(id) ON DELETE CASCADE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT NULL
-);
+-- CREATE TABLE recording_performers(
+--     id SERIAL PRIMARY KEY,
+--     recording_id INTEGER REFERENCES recordings(id) ON DELETE CASCADE,
+--     performer_id INTEGER REFERENCES performers(id) ON DELETE CASCADE,
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     updated_at TIMESTAMP DEFAULT NULL
+-- );
