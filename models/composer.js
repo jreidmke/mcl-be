@@ -9,10 +9,10 @@ class Composer {
 
         for(let a of alphaString) {
             const resp = await axios.get(`https://api.openopus.org/composer/list/name/${a}.json`);
-            composerArr = [...composerArr, resp.data.composers];
+            if(resp.data.composers) composerArr.push(resp.data.composers);
         };
 
-        return composerArr;
+        return composerArr.flat();
     }
 }
 
