@@ -9,7 +9,9 @@ class Work {
             `SELECT id
             FROM composers`
         );
-        const ids = idsRes.rows.slice(0, 1).map(i => i.id);
+
+        const ids = idsRes.rows.map(i => i.id);
+
         for(let id of ids) {
             const resp = await axios.get(`https://api.openopus.org/work/list/composer/${id}/genre/all.json`);
             const workObj = {[id]: resp.data.works.map(w => ({...w, composer_id: id}))};

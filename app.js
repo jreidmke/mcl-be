@@ -7,6 +7,7 @@ const cors = require("cors");
 
 const { NotFoundError } = require("./expressError");
 const workRoute = require("./routes/works");
+const composerRoute = require("./routes/composers");
 // const { authenticateJWT } = require("./middleware/auth");
 
 const morgan = require("morgan");
@@ -17,6 +18,7 @@ app.use(cors());
 app.use(express.json());
 app.use(morgan("tiny"));
 app.use("/works", workRoute);
+app.use("/composers", composerRoute);
 // app.use(authenticateJWT);
 
 /** Handle 404 errors -- this matches everything */

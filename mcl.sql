@@ -6,4 +6,4 @@ CREATE DATABASE mcl;
 \c mcl; 
 
 \i mcl-schema.sql
-\i mcl-seed-composers.sql
+\i mcl-seed-comp2.sql
