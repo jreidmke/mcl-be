@@ -34,10 +34,6 @@ CREATE TABLE works(
     title VARCHAR NOT NULL,
     subtitle VARCHAR,
     genre TEXT,
-    catalogue TEXT,
-    catalogue_number INTEGER,
-    year_composed INTEGER,
-    year_debuted INTEGER,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT NULL
 );

@@ -14,11 +14,11 @@ class Work {
 
         for(let id of ids) {
             const resp = await axios.get(`https://api.openopus.org/work/list/composer/${id}/genre/all.json`);
-            const workObj = {[id]: resp.data.works.map(w => ({...w, composer_id: id}))};
+            const workObj = resp.data.works.map(w => ({id: w.id, title: w.title, subtitle: w.subtitle, genre: w.genre, composer_id: id}));
             workArr.push(workObj);
         };
 
-        return workArr;
+        return workArr.flat();
     }
 }
 
