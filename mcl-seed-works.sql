@@ -1,7 +1,6 @@
 INSERT INTO works
 SELECT *
 FROM json_populate_recordset (NULL::works,
-
 '[
     {
       "id": "16893",
@@ -705,7 +704,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2191",
-      "title": "12 Balletti à tre, for 2 violins, cello and continuo, op. 3",
+      "title": "12 Balletti a tre, for 2 violins, cello and continuo, op. 3",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
@@ -1090,7 +1089,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2192",
-      "title": "Concerto à 6 in C for Trumpet, Oboes and Bassoon",
+      "title": "Concerto a 6 in C for Trumpet, Oboes and Bassoon",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
@@ -1181,14 +1180,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2147",
-      "title": "Sonata di Concerto à 7 in D for Solo Trumpet and Strings",
+      "title": "Sonata di Concerto a 7 in D for Solo Trumpet and Strings",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
     },
     {
       "id": "2140",
-      "title": "Sonata di Concerto à 7, for trumpet, 2 violins, 2 violas, cello, and continuo in D major, T. Si 1",
+      "title": "Sonata di Concerto a 7, for trumpet, 2 violins, 2 violas, cello, and continuo in D major, T. Si 1",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 27
@@ -1209,35 +1208,35 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2153",
-      "title": "Sonata à6 in C for Solo Trumpet and Strings",
+      "title": "Sonata a6 in C for Solo Trumpet and Strings",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
     },
     {
       "id": "2143",
-      "title": "Sonata à cinque for Violin, 2 Violas, and Continuo in B flat major, op. 2, no. 9",
+      "title": "Sonata a cinque for Violin, 2 Violas, and Continuo in B flat major, op. 2, no. 9",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
     },
     {
       "id": "2165",
-      "title": "Sonata à cinque for Violin, 2 Violas, and Continuo in C major, op. 2, no. 3",
+      "title": "Sonata a cinque for Violin, 2 Violas, and Continuo in C major, op. 2, no. 3",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
     },
     {
       "id": "2120",
-      "title": "Sonata à cinque for Violin, 2 Violas, and Continuo in G minor, op. 2, no. 11",
+      "title": "Sonata a cinque for Violin, 2 Violas, and Continuo in G minor, op. 2, no. 11",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
     },
     {
       "id": "2190",
-      "title": "Sonata à sei for Trumpet, 2 Violins, 3 Violas, and Continuo in C major, T.So.1",
+      "title": "Sonata a sei for Trumpet, 2 Violins, 3 Violas, and Continuo in C major, T.So.1",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 27
@@ -4156,7 +4155,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9841",
-      "title": "Cantata no. 186: Ärgre dich, O Seele, nicht, BWV.186",
+      "title": "Cantata no. 186: Argre dich, O Seele, nicht, BWV.186",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4261,7 +4260,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9977",
-      "title": "Cantata no. 205: Der zufriedengestellte Äulos: Zerreisset, zersprenget, zertrummert die Gruft, BWV.205",
+      "title": "Cantata no. 205: Der zufriedengestellte Aulos: Zerreisset, zersprenget, zertrummert die Gruft, BWV.205",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -10400,7 +10399,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22911",
-      "title": "Fantasia and Fugue à 4, in C minor, Wq.119, no. 7",
+      "title": "Fantasia and Fugue a 4, in C minor, Wq.119, no. 7",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 192
@@ -11464,7 +11463,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22740",
-      "title": "Romance avec 12 variations in G, H.226, Wq.118, no. 6, \"Colin a peine à seize ans\"",
+      "title": "Romance avec 12 variations in G, H.226, Wq.118, no. 6, \"Colin a peine a seize ans\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 192
@@ -16945,7 +16944,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16119",
-      "title": "Kriegslied der Österreicher, WoO 122",
+      "title": "Kriegslied der Osterreicher, WoO 122",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 145
@@ -18996,7 +18995,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26236",
-      "title": "Über den Bergen",
+      "title": "Uber den Bergen",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 210
@@ -19507,7 +19506,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20003",
-      "title": "Symphonie fantastique: Épisode de la vie d''une artiste, op. 14",
+      "title": "Symphonie fantastique: Episode de la vie d''une artiste, op. 14",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 175
@@ -19563,7 +19562,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20047",
-      "title": "Canon libre à la quinte, song for 2 voices and piano, H.14",
+      "title": "Canon libre a la quinte, song for 2 voices and piano, H.14",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 175
@@ -19612,7 +19611,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20005",
-      "title": "Hymne à la France, for chorus and orchestra, H.97, op. 20, no. 2",
+      "title": "Hymne a la France, for chorus and orchestra, H.97, op. 20, no. 2",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 175
@@ -19759,7 +19758,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20033",
-      "title": "Lelio, ou Le retour à la vie, H.55, op. 14bis ",
+      "title": "Lelio, ou Le retour a la vie, H.55, op. 14bis ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 175
@@ -20655,7 +20654,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4153",
-      "title": "Balletae à 4 Violette",
+      "title": "Balletae a 4 Violette",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
@@ -20683,7 +20682,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4099",
-      "title": "Balletti à 6, suite for 2 trumpets, violin, 2 violas and continuo in C major, C. 57",
+      "title": "Balletti a 6, suite for 2 trumpets, violin, 2 violas and continuo in C major, C. 57",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
@@ -20711,14 +20710,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4108",
-      "title": "Laetatus Sum à7, for 2 solo voices, violin, 3 violas, and continuo, C.9",
+      "title": "Laetatus Sum a7, for 2 solo voices, violin, 3 violas, and continuo, C.9",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 47
     },
     {
       "id": "4103",
-      "title": "Litania de Sancto Josepho à20, for eight solo voices, double chorus, orchestra and continuo, C.44",
+      "title": "Litania de Sancto Josepho a20, for eight solo voices, double chorus, orchestra and continuo, C.44",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 47
@@ -20795,7 +20794,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4160",
-      "title": "Serenada à 5, for 2 violins, 2 violas, and continuo in C, C.75, \"Nightwatchman''s Call\"",
+      "title": "Serenada a 5, for 2 violins, 2 violas, and continuo in C, C.75, \"Nightwatchman''s Call\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
@@ -20872,7 +20871,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4098",
-      "title": "Sonata pro Tabula à 10, for 5 recorders, 2 violins, 3 violas and continuo in C major, C.112",
+      "title": "Sonata pro Tabula a 10, for 5 recorders, 2 violins, 3 violas and continuo in C major, C.112",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
@@ -20886,98 +20885,98 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4164",
-      "title": "Sonata tam Aris à 5, for 2 trumpets, 2 violins, and continuo in G, C.120 ",
+      "title": "Sonata tam Aris a 5, for 2 trumpets, 2 violins, and continuo in G, C.120 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4124",
-      "title": "Sonata tam Aris à 5, for 2 violins, 2 violas, and continuo in A, C.124 ",
+      "title": "Sonata tam Aris a 5, for 2 violins, 2 violas, and continuo in A, C.124 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4105",
-      "title": "Sonata tam Aris à 5, for 2 violins, 2 violas, and continuo in B flat major, C.122 ",
+      "title": "Sonata tam Aris a 5, for 2 violins, 2 violas, and continuo in B flat major, C.122 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4157",
-      "title": "Sonata tam Aris à 5, for 2 violins, 2 violas, and continuo in F, C.119 ",
+      "title": "Sonata tam Aris a 5, for 2 violins, 2 violas, and continuo in F, C.119 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4107",
-      "title": "Sonata tam Aris à 5, for 2 violins, 2 violas, and continuo in G, C.121 ",
+      "title": "Sonata tam Aris a 5, for 2 violins, 2 violas, and continuo in G, C.121 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4131",
-      "title": "Sonata tam Aris à 5, for trumpet, violin, 2 violas, and continuo in C, C.117 ",
+      "title": "Sonata tam Aris a 5, for trumpet, violin, 2 violas, and continuo in C, C.117 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4110",
-      "title": "Sonata tam Aris à 5, for trumpet, violin, 2 violas, and continuo in G minor, C.123 ",
+      "title": "Sonata tam Aris a 5, for trumpet, violin, 2 violas, and continuo in G minor, C.123 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4155",
-      "title": "Sonata tam Aris à 6, for 2 violins, 3 violas, and continuo in D, C.115 ",
+      "title": "Sonata tam Aris a 6, for 2 violins, 3 violas, and continuo in D, C.115 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4134",
-      "title": "Sonata tam Aris à 6, for 2 violins, 3 violas, and continuo in G minor, C.116 ",
+      "title": "Sonata tam Aris a 6, for 2 violins, 3 violas, and continuo in G minor, C.116 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4122",
-      "title": "Sonata tam Aris à 6, for 2 violins, 3 violas, and continuo no. 5 in E minor, C.118 ",
+      "title": "Sonata tam Aris a 6, for 2 violins, 3 violas, and continuo no. 5 in E minor, C.118 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4145",
-      "title": "Sonata tam Aris à 8, for 2 trumpets, 2 violins, 2 violas, and continuo in C, C.114 ",
+      "title": "Sonata tam Aris a 8, for 2 trumpets, 2 violins, 2 violas, and continuo in C, C.114 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4106",
-      "title": "Sonata tam Aris à 8, for 2 trumpets, 2 violins, 2 violas, and continuo in C major, C.125 ",
+      "title": "Sonata tam Aris a 8, for 2 trumpets, 2 violins, 2 violas, and continuo in C major, C.125 ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4116",
-      "title": "Sonata à 6 in B flat major ''die pauern-Kirchfarth genandt'', for 3 violins, 2 violas and continuo, C.110",
+      "title": "Sonata a 6 in B flat major ''die pauern-Kirchfarth genandt'', for 3 violins, 2 violas and continuo, C.110",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
     },
     {
       "id": "4118",
-      "title": "Trombet und musikalischer Taffeldienst à 4, suite for 2 violins, 2 violas, and continuo in C major, C.76",
+      "title": "Trombet und musikalischer Taffeldienst a 4, suite for 2 violins, 2 violas, and continuo in C major, C.76",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 47
@@ -20998,7 +20997,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4097",
-      "title": "Vesperae à 32, for 8 solo voices, double chorus, orchestra and continuo in C major, C.11-12",
+      "title": "Vesperae a 32, for 8 solo voices, double chorus, orchestra and continuo in C major, C.11-12",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 47
@@ -21579,7 +21578,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6546",
-      "title": "Morceau à dechiffrer, for bassoon and cello",
+      "title": "Morceau a dechiffrer, for bassoon and cello",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 68
@@ -26311,7 +26310,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21462",
-      "title": "Die Flucht nach Ägypten, for soprano, female chorus and orchestra, op. 31, no. 1",
+      "title": "Die Flucht nach Agypten, for soprano, female chorus and orchestra, op. 31, no. 1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 184
@@ -27256,7 +27255,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8690",
-      "title": "Klavier-Übung, KiV deest",
+      "title": "Klavier-Ubung, KiV deest",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 84
@@ -33080,7 +33079,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14532",
-      "title": "L'' Étoile, opera-bouffe in 3 acts",
+      "title": "L'' Etoile, opera-bouffe in 3 acts",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 123
@@ -33500,7 +33499,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "691",
-      "title": "Fanfare à deux trompettes",
+      "title": "Fanfare a deux trompettes",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 9
@@ -33619,7 +33618,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "810",
-      "title": "La priere à la Vierge du Pere Bernard, for 3 voices, chorus, 2 treble instruments and continuo, H.367",
+      "title": "La priere a la Vierge du Pere Bernard, for 3 voices, chorus, 2 treble instruments and continuo, H.367",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33682,7 +33681,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "768",
-      "title": "Litanies de la Vierge à 2 dessus et une basse chantant, for 3 voices and continuo, H.86",
+      "title": "Litanies de la Vierge a 2 dessus et une basse chantant, for 3 voices and continuo, H.86",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33731,7 +33730,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "728",
-      "title": "Magnificat à 3 dessus, for 2 sopranos, mezzo-soprano, and continuo, H.75",
+      "title": "Magnificat a 3 dessus, for 2 sopranos, mezzo-soprano, and continuo, H.75",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33801,14 +33800,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "812",
-      "title": "Messe à 8 voix et 8 violons et flutes, for 8 voices, chorus, 2 flutes, strings and continuo, H.3",
+      "title": "Messe a 8 voix et 8 violons et flutes, for 8 voices, chorus, 2 flutes, strings and continuo, H.3",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
     },
     {
       "id": "713",
-      "title": "Messe à quatre choeurs, for 12 voices, quadruple chorus, strings and continuo, H.4",
+      "title": "Messe a quatre choeurs, for 12 voices, quadruple chorus, strings and continuo, H.4",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33955,7 +33954,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "818",
-      "title": "O salutaris à 3 dessus, motet for 3 voices and continuo, H.261",
+      "title": "O salutaris a 3 dessus, motet for 3 voices and continuo, H.261",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33990,7 +33989,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "740",
-      "title": "Pour la fete de L''Épiphanie, histoire sacree for 3 voices, 2 treble instruments and continuo, H.395",
+      "title": "Pour la fete de L''Epiphanie, histoire sacree for 3 voices, 2 treble instruments and continuo, H.395",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -34039,7 +34038,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "762",
-      "title": "Prelude pour le Te Deum à 8, for strings, H.145a",
+      "title": "Prelude pour le Te Deum a 8, for strings, H.145a",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 9
@@ -34081,14 +34080,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "687",
-      "title": "Salve Regina à 3 choeurs, for for 3 choruses and continuo, H.24",
+      "title": "Salve Regina a 3 choeurs, for for 3 choruses and continuo, H.24",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
     },
     {
       "id": "720",
-      "title": "Salve Regina à trois voix pareilles, for 3 voices and continuo, H.23",
+      "title": "Salve Regina a trois voix pareilles, for 3 voices and continuo, H.23",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -34130,7 +34129,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "816",
-      "title": "Sonate à huit, H.548",
+      "title": "Sonate a huit, H.548",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 9
@@ -34186,7 +34185,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "805",
-      "title": "Te Deum à 4, for 5 voices, chorus, strings and continuo, H.147",
+      "title": "Te Deum a 4, for 5 voices, chorus, strings and continuo, H.147",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -34445,7 +34444,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5458",
-      "title": "Marins devots à la Vierge Marie",
+      "title": "Marins devots a la Vierge Marie",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 61
@@ -35012,7 +35011,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14311",
-      "title": "Hymne à la Victoire, for 4 voices",
+      "title": "Hymne a la Victoire, for 4 voices",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 120
@@ -35474,7 +35473,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17204",
-      "title": "Mazurka in A minor, B.140, \"Émile Gaillard\"",
+      "title": "Mazurka in A minor, B.140, \"Emile Gaillard\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 152
@@ -35726,7 +35725,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17248",
-      "title": "Polonaise in B flat minor, B.13, \"Adieu à Guillaume Kolberg\"",
+      "title": "Polonaise in B flat minor, B.13, \"Adieu a Guillaume Kolberg\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 152
@@ -35817,7 +35816,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17174",
-      "title": "Rondo à la Mazur in F major, op. 5",
+      "title": "Rondo a la Mazur in F major, op. 5",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 152
@@ -37588,7 +37587,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14967",
-      "title": "Epitaphe d''un paresseux, air à boire for 2 voices, \"Jean s''en alla comme il etait venu\"",
+      "title": "Epitaphe d''un paresseux, air a boire for 2 voices, \"Jean s''en alla comme il etait venu\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 128
@@ -38407,7 +38406,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14836",
-      "title": "Jour d''ete à la montagne, symphonic triptych op. 61",
+      "title": "Jour d''ete a la montagne, symphonic triptych op. 61",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 127
@@ -39058,7 +39057,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13215",
-      "title": "Prelude à l''apres-midi d''un faune, L.86",
+      "title": "Prelude a l''apres-midi d''un faune, L.86",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 105
@@ -39149,14 +39148,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13221",
-      "title": "6 Épigraphes antiques, for piano 4-hands, L.131",
+      "title": "6 Epigraphes antiques, for piano 4-hands, L.131",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
     },
     {
       "id": "13223",
-      "title": "6 Épigraphes antiques, L.131",
+      "title": "6 Epigraphes antiques, L.131",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
@@ -39373,7 +39372,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13283",
-      "title": "Hommage à Joseph Haydn, L.115",
+      "title": "Hommage a Joseph Haydn, L.115",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
@@ -39478,7 +39477,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13191",
-      "title": "La boite à joujoux, L.128",
+      "title": "La boite a joujoux, L.128",
       "subtitle": "Ballet",
       "genre": "Stage",
       "composer_id": 105
@@ -39961,14 +39960,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13210",
-      "title": "Étude retrouvee, for piano",
+      "title": "Etude retrouvee, for piano",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
     },
     {
       "id": "13237",
-      "title": "Études, L.136",
+      "title": "Etudes, L.136",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
@@ -42103,7 +42102,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10502",
-      "title": "Addio brunetta, son già lontano",
+      "title": "Addio brunetta, son gia lontano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 89
@@ -43174,7 +43173,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10441",
-      "title": "È morta ",
+      "title": "E morta ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 89
@@ -45505,7 +45504,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10696",
-      "title": "Hommage à Jean Gallon, \"Chant donne\"",
+      "title": "Hommage a Jean Gallon, \"Chant donne\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 91
@@ -45729,7 +45728,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13777",
-      "title": "Petit air à dormir debout",
+      "title": "Petit air a dormir debout",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 110
@@ -48326,7 +48325,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2979",
-      "title": "Piece for Piano, \"Hommage à Gabriel Faure\"",
+      "title": "Piece for Piano, \"Hommage a Gabriel Faure\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 38
@@ -50258,7 +50257,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1169",
-      "title": "La procession: Dieu s''avance à travers les champs!, for voice, and orchestra, M.88",
+      "title": "La procession: Dieu s''avance a travers les champs!, for voice, and orchestra, M.88",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 12
@@ -50496,7 +50495,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1152",
-      "title": "Églogue, op. 3, M.11",
+      "title": "Eglogue, op. 3, M.11",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 12
@@ -51868,7 +51867,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1253",
-      "title": "Ahi, già mi discoloro ",
+      "title": "Ahi, gia mi discoloro ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -52029,7 +52028,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1320",
-      "title": "Beltà, poi che t''assenti, W6.16",
+      "title": "Belta, poi che t''assenti, W6.16",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -52183,7 +52182,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1385",
-      "title": "Deh, se già fu crudele al mio ",
+      "title": "Deh, se gia fu crudele al mio ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -52358,7 +52357,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1274",
-      "title": "Già piansi nel dolore, W6.96",
+      "title": "Gia piansi nel dolore, W6.96",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -54332,7 +54331,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2502",
-      "title": "Punena no. 2 for cello, op. 45, \"Hommage à Paul Sacher\"",
+      "title": "Punena no. 2 for cello, op. 45, \"Hommage a Paul Sacher\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 32
@@ -55249,7 +55248,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20293",
-      "title": "3 Études, op. 31",
+      "title": "3 Etudes, op. 31",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 179
@@ -55396,7 +55395,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20318",
-      "title": "Elegy for Cello and Piano in D flat major, op. 17, \"Une pensee à Liszt\"",
+      "title": "Elegy for Cello and Piano in D flat major, op. 17, \"Une pensee a Liszt\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 179
@@ -57517,7 +57516,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25461",
-      "title": "Realtà, meditation for voice and piano",
+      "title": "Realta, meditation for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 207
@@ -58112,7 +58111,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2299",
-      "title": "Boire à l''ombre, song for voice and piano",
+      "title": "Boire a l''ombre, song for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 29
@@ -61528,49 +61527,49 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18131",
-      "title": "Fuga à 2 in C major, EG 184b",
+      "title": "Fuga a 2 in C major, EG 184b",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18117",
-      "title": "Fuga à 2 in C minor, EG 184a",
+      "title": "Fuga a 2 in C minor, EG 184a",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18152",
-      "title": "Fuga à 2 in G minor, EG184g",
+      "title": "Fuga a 2 in G minor, EG184g",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18097",
-      "title": "Fuga à 3 in A minor, EG 184d",
+      "title": "Fuga a 3 in A minor, EG 184d",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18031",
-      "title": "Fuga à 3 in C major, EG 184f",
+      "title": "Fuga a 3 in C major, EG 184f",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18091",
-      "title": "Fuga à 3 in D major, EG 184c",
+      "title": "Fuga a 3 in D major, EG 184c",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18068",
-      "title": "Fuga à 4 in G minor, EG184e",
+      "title": "Fuga a 4 in G minor, EG184e",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
@@ -62228,14 +62227,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19777",
-      "title": "Hommage à Marina Tsvetayeva",
+      "title": "Hommage a Marina Tsvetayeva",
       "subtitle": "Suite for choir",
       "genre": "Vocal",
       "composer_id": 172
     },
     {
       "id": "19798",
-      "title": "Hommage à T.S. Eliot",
+      "title": "Hommage a T.S. Eliot",
       "subtitle": "For soprano and octet",
       "genre": "Vocal",
       "composer_id": 172
@@ -63964,7 +63963,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6132",
-      "title": "No se emenderà jamas, HWV.140",
+      "title": "No se emendera jamas, HWV.140",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 67
@@ -64461,7 +64460,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6337",
-      "title": "Solitudini care, amata libertà, cantata for soprano and continuo, HWV.163",
+      "title": "Solitudini care, amata liberta, cantata for soprano and continuo, HWV.163",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 67
@@ -64475,7 +64474,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6133",
-      "title": "Sonata a 5 for violin and strings in B flat major, HWV.288, \"Sonata à Cinque\"",
+      "title": "Sonata a 5 for violin and strings in B flat major, HWV.288, \"Sonata a Cinque\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 67
@@ -65280,21 +65279,21 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3569",
-      "title": "Études  for piano, no. 1, Studio ritmico, op. 18, no. 1",
+      "title": "Etudes  for piano, no. 1, Studio ritmico, op. 18, no. 1",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 42
     },
     {
       "id": "3583",
-      "title": "Études  for piano, no. 2, Studio melodico, op. 18, no. 2",
+      "title": "Etudes  for piano, no. 2, Studio melodico, op. 18, no. 2",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 42
     },
     {
       "id": "3561",
-      "title": "Études  for piano, no. 3, Poema Idillico, op. 18, no. 3",
+      "title": "Etudes  for piano, no. 3, Poema Idillico, op. 18, no. 3",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 42
@@ -67842,7 +67841,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25898",
-      "title": "L''infedeltà Delusa, Hob.XXVIII:5",
+      "title": "L''infedelta Delusa, Hob.XXVIII:5",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 208
@@ -67863,7 +67862,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25762",
-      "title": "La Fedeltà Premiata, Hob.XXVIII:10",
+      "title": "La Fedelta Premiata, Hob.XXVIII:10",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 208
@@ -70257,7 +70256,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17504",
-      "title": "Étude Philharmonique, for violin",
+      "title": "Etude Philharmonique, for violin",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 155
@@ -73687,14 +73686,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24873",
-      "title": "Vocalise-Étude, for untexted voice and piano, H.70",
+      "title": "Vocalise-Etude, for untexted voice and piano, H.70",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 200
     },
     {
       "id": "24867",
-      "title": "Ô temps suspends ton vol, H.178",
+      "title": "O temps suspends ton vol, H.178",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 200
@@ -73806,7 +73805,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2381",
-      "title": "Air à la tirolienne avec variations, for voice and orchestra, op. 118",
+      "title": "Air a la tirolienne avec variations, for voice and orchestra, op. 118",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 30
@@ -73939,7 +73938,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2439",
-      "title": "Le retour à  Londres, rondo brillant in F major, for piano and orchestra, op. 127",
+      "title": "Le retour a  Londres, rondo brillant in F major, for piano and orchestra, op. 127",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 30
@@ -74814,7 +74813,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14504",
-      "title": "Hommage à Mozart",
+      "title": "Hommage a Mozart",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 122
@@ -76991,7 +76990,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "27004",
-      "title": "Élegie",
+      "title": "Elegie",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 217
@@ -77656,7 +77655,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1937",
-      "title": "Jusques à quand as estably ",
+      "title": "Jusques a quand as estably ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 23
@@ -79546,7 +79545,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2608",
-      "title": "Öregek, for chorus, \"The aged\"",
+      "title": "Oregek, for chorus, \"The aged\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 34
@@ -81695,7 +81694,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23041",
-      "title": "Hymne à la lyre",
+      "title": "Hymne a la lyre",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 194
@@ -81709,7 +81708,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23049",
-      "title": "Invocation à la muse",
+      "title": "Invocation a la muse",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 194
@@ -81828,7 +81827,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23043",
-      "title": "Zazà",
+      "title": "Zaza",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 194
@@ -82297,7 +82296,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2107",
-      "title": "Trio for Horn, Violin and Piano, \"Hommage à Brahms\"",
+      "title": "Trio for Horn, Violin and Piano, \"Hommage a Brahms\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 26
@@ -83543,7 +83542,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24117",
-      "title": "Evocation à la Chapelle Sixtine, for organ, harmonium or pedal piano, S.658",
+      "title": "Evocation a la Chapelle Sixtine, for organ, harmonium or pedal piano, S.658",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -83816,7 +83815,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24174",
-      "title": "Grand Paganini Étude, S.141",
+      "title": "Grand Paganini Etude, S.141",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -83949,7 +83948,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24012",
-      "title": "Hymne à Sainte-Cecile, S.491, R.168",
+      "title": "Hymne a Sainte-Cecile, S.491, R.168",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -85279,7 +85278,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24326",
-      "title": "Valse à capriccio, sur deux motifs de ''Lucia et Parisina'', S.401, R.155",
+      "title": "Valse a capriccio, sur deux motifs de ''Lucia et Parisina'', S.401, R.155",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -85482,7 +85481,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24242",
-      "title": "Über allen gipfeln ist Ruh'', S.306",
+      "title": "Uber allen gipfeln ist Ruh'', S.306",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
@@ -87449,7 +87448,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25226",
-      "title": "La Sonnerie de Sainte Genevieve du Mont à Paris, for violin, viola da gamba, and continuo",
+      "title": "La Sonnerie de Sainte Genevieve du Mont a Paris, for violin, viola da gamba, and continuo",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 204
@@ -87519,7 +87518,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25245",
-      "title": "Pieces à une et à trois viola da gamba",
+      "title": "Pieces a une et a trois viola da gamba",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 204
@@ -87610,7 +87609,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25234",
-      "title": "Sonate à la Maresienne, for violin, viola da gamba, and continuo in C",
+      "title": "Sonate a la Maresienne, for violin, viola da gamba, and continuo in C",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 204
@@ -88093,7 +88092,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20172",
-      "title": "L''immensa tua pietà deb fa che splenda, for alto, tenor and bass",
+      "title": "L''immensa tua pieta deb fa che splenda, for alto, tenor and bass",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 177
@@ -88828,7 +88827,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1051",
-      "title": "7 Arabesques, for cello and piano, H.201, \"Études rhythmiques\"",
+      "title": "7 Arabesques, for cello and piano, H.201, \"Etudes rhythmiques\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 11
@@ -90746,14 +90745,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14594",
-      "title": "Ève, mystery drama in 3 acts",
+      "title": "Eve, mystery drama in 3 acts",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 124
     },
     {
       "id": "14588",
-      "title": "Élegie: O doux printemps d''autrefois",
+      "title": "Elegie: O doux printemps d''autrefois",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 124
@@ -92706,7 +92705,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16900",
-      "title": "4 Études de rhythme, I/32-35",
+      "title": "4 Etudes de rhythme, I/32-35",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 150
@@ -92776,7 +92775,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16937",
-      "title": "Concert à quatre, for flute, cello, piano and orchestra, I/62",
+      "title": "Concert a quatre, for flute, cello, piano and orchestra, I/62",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 150
@@ -93735,7 +93734,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14373",
-      "title": "Little Symphony, for 10 winds no. 5, ''Dixtour d''instruments à vent'', op. 75",
+      "title": "Little Symphony, for 10 winds no. 5, ''Dixtour d''instruments a vent'', op. 75",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 121
@@ -93819,7 +93818,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14351",
-      "title": "Quatrain à Albert Roussel, song for voice and piano, op. 106",
+      "title": "Quatrain a Albert Roussel, song for voice and piano, op. 106",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 121
@@ -94050,14 +94049,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14432",
-      "title": "Élegie pour Pierre, for viola, timpani and 2 percussionists, op. 416",
+      "title": "Elegie pour Pierre, for viola, timpani and 2 percussionists, op. 416",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 121
     },
     {
       "id": "14375",
-      "title": "Études sur des themes liturgiques du comtat Venaissi, for string quartet, op. 442",
+      "title": "Etudes sur des themes liturgiques du comtat Venaissi, for string quartet, op. 442",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 121
@@ -95002,14 +95001,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3239",
-      "title": "Con che soavità",
+      "title": "Con che soavita",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
     },
     {
       "id": "3155",
-      "title": "Con che soavità, labbra odorate, for soprano and instruments, SV139",
+      "title": "Con che soavita, labbra odorate, for soprano and instruments, SV139",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95324,7 +95323,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3126",
-      "title": "Eri già tutta mia, for soprano, SV248",
+      "title": "Eri gia tutta mia, for soprano, SV248",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95520,7 +95519,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3262",
-      "title": "Io pur verro là dove sete",
+      "title": "Io pur verro la dove sete",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95779,7 +95778,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3184",
-      "title": "Là tra''l sangue",
+      "title": "La tra''l sangue",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95828,7 +95827,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3288",
-      "title": "Ma Se Con La Pietà Non È In Te Spenta",
+      "title": "Ma Se Con La Pieta Non E In Te Spenta",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -97543,7 +97542,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23252",
-      "title": "Chi sà, chi sà, qual sia, K.582",
+      "title": "Chi sa, chi sa, qual sia, K.582",
       "subtitle": "Aria for soprano and orchestra",
       "genre": "Vocal",
       "composer_id": 196
@@ -99139,14 +99138,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23739",
-      "title": "Per pietà, bell''idol mio, K.78",
+      "title": "Per pieta, bell''idol mio, K.78",
       "subtitle": "Aria for soprano and orchestra",
       "genre": "Vocal",
       "composer_id": 196
     },
     {
       "id": "23707",
-      "title": "Per pietà, non ricercate, K.420",
+      "title": "Per pieta, non ricercate, K.420",
       "subtitle": "Aria for tenor and orchestra",
       "genre": "Vocal",
       "composer_id": 196
@@ -101680,7 +101679,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4519",
-      "title": "Kantate ved Landsudstillingen i Århus, for chorus and orchestra, FS54",
+      "title": "Kantate ved Landsudstillingen i Arhus, for chorus and orchestra, FS54",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 52
@@ -102107,7 +102106,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13802",
-      "title": "Sarà dolce tacere, for 8 vocal soloists",
+      "title": "Sara dolce tacere, for 8 vocal soloists",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 111
@@ -102821,7 +102820,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15403",
-      "title": "Le Chateau à Toto ",
+      "title": "Le Chateau a Toto ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 134
@@ -103115,7 +103114,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15420",
-      "title": "Un mari à la porte ",
+      "title": "Un mari a la porte ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 134
@@ -104774,7 +104773,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "128",
-      "title": "60 Variations on Barucabà, for violin and guitar, op. 14, MS71",
+      "title": "60 Variations on Barucaba, for violin and guitar, op. 14, MS71",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 3
@@ -105971,7 +105970,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26711",
-      "title": "Chi stinguerà il mio foco",
+      "title": "Chi stinguera il mio foco",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 214
@@ -106216,7 +106215,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26636",
-      "title": "Già fu chi m''ebbe cara e volentieri",
+      "title": "Gia fu chi m''ebbe cara e volentieri",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 214
@@ -108736,7 +108735,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3499",
-      "title": "6 Études tanguistiques, for flute solo",
+      "title": "6 Etudes tanguistiques, for flute solo",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 40
@@ -108904,7 +108903,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3425",
-      "title": "Concerto for bandoneon, guitar and string orchestra, \"Hommage à Liege\"",
+      "title": "Concerto for bandoneon, guitar and string orchestra, \"Hommage a Liege\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 40
@@ -109590,7 +109589,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3360",
-      "title": "Ángel series, tangos for chamber ensemble",
+      "title": "Angel series, tangos for chamber ensemble",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 40
@@ -110094,7 +110093,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25065",
-      "title": "Hommage à Albert Roussel, for small orchestra, FP50",
+      "title": "Hommage a Albert Roussel, for small orchestra, FP50",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 202
@@ -110297,7 +110296,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25032",
-      "title": "Litanies à la Vierge Noire, for women''s chorus and organ, FP82",
+      "title": "Litanies a la Vierge Noire, for women''s chorus and organ, FP82",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 202
@@ -110717,21 +110716,21 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25027",
-      "title": "À sa guitare FP79",
+      "title": "A sa guitare FP79",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 202
     },
     {
       "id": "25017",
-      "title": "Élegie, for horn, FP168",
+      "title": "Elegie, for horn, FP168",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 202
     },
     {
       "id": "25049",
-      "title": "Épitaphe, FP55, \"Belle ame qui fus mon flambeau\"",
+      "title": "Epitaphe, FP55, \"Belle ame qui fus mon flambeau\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 202
@@ -111823,7 +111822,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7412",
-      "title": "Vater unser im Himmereich, chorale setting à 18 ",
+      "title": "Vater unser im Himmereich, chorale setting a 18 ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 78
@@ -115379,7 +115378,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22134",
-      "title": "5 Études-tableaux, ",
+      "title": "5 Etudes-tableaux, ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 188
@@ -116177,7 +116176,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20229",
-      "title": "Daphnis et Égle ",
+      "title": "Daphnis et Egle ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
@@ -116898,14 +116897,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "12610",
-      "title": "Hommage à Kodaly Zoltan, for string orchestra",
+      "title": "Hommage a Kodaly Zoltan, for string orchestra",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 100
     },
     {
       "id": "12599",
-      "title": "Hommage à Liszt Ferenc, for string orchestra",
+      "title": "Hommage a Liszt Ferenc, for string orchestra",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 100
@@ -117717,7 +117716,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5067",
-      "title": "Don Quichotte à Dulcinee, for voice and orchestra",
+      "title": "Don Quichotte a Dulcinee, for voice and orchestra",
       "subtitle": "Song cycle",
       "genre": "Vocal",
       "composer_id": 57
@@ -117920,7 +117919,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5055",
-      "title": "Ronsard à son ame",
+      "title": "Ronsard a son ame",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 57
@@ -118067,7 +118066,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5071",
-      "title": "Vocalise: Étude en forme de habanera",
+      "title": "Vocalise: Etude en forme de habanera",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 57
@@ -119670,14 +119669,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19904",
-      "title": "Deità silvane, for soprano and 15 instruments, P.147",
+      "title": "Deita silvane, for soprano and 15 instruments, P.147",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 173
     },
     {
       "id": "19929",
-      "title": "Deità silvane, song cycle for soprano and piano, P.107",
+      "title": "Deita silvane, song cycle for soprano and piano, P.107",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 173
@@ -119782,7 +119781,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19933",
-      "title": "Lauda per la Natività del Signore, for soloists, chorus, and ensemble, P.166",
+      "title": "Lauda per la Nativita del Signore, for soloists, chorus, and ensemble, P.166",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 173
@@ -120685,7 +120684,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10649",
-      "title": "Über-Schrift, for 2 pianos",
+      "title": "Uber-Schrift, for 2 pianos",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 90
@@ -121980,7 +121979,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26835",
-      "title": "À l''ombre de Torre Bermeja, \"Homenaje a Ricardo Vines\"",
+      "title": "A l''ombre de Torre Bermeja, \"Homenaje a Ricardo Vines\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
@@ -122813,7 +122812,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5436",
-      "title": "Ah, per pietà, t''arresta!, duet for 2 sopranos and orchestra",
+      "title": "Ah, per pieta, t''arresta!, duet for 2 sopranos and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
@@ -122855,7 +122854,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5356",
-      "title": "Ariette à l''ancienne",
+      "title": "Ariette a l''ancienne",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
@@ -122890,14 +122889,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5383",
-      "title": "Beltà crudele, \"Amori scendete propizi al mio core\"",
+      "title": "Belta crudele, \"Amori scendete propizi al mio core\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
     },
     {
       "id": "5304",
-      "title": "Beltà crudele; Nuova melodia",
+      "title": "Belta crudele; Nuova melodia",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
@@ -123072,7 +123071,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5413",
-      "title": "Hymne à Napoleon III, for baritone, chorus, orchestra and military band, QR xii/21, \"Dieu tout puissant\"",
+      "title": "Hymne a Napoleon III, for baritone, chorus, orchestra and military band, QR xii/21, \"Dieu tout puissant\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
@@ -123814,7 +123813,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5435",
-      "title": "Waltz in E flat major, \"À M.me Charles de Rothschild\"",
+      "title": "Waltz in E flat major, \"A M.me Charles de Rothschild\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 60
@@ -123828,14 +123827,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5402",
-      "title": "À ma belle mere; Requiem",
+      "title": "A ma belle mere; Requiem",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
     },
     {
       "id": "5379",
-      "title": "È foriera la Pace ai mortali, for baritone, male chorus and piano, QR xii/1",
+      "title": "E foriera la Pace ai mortali, for baritone, male chorus and piano, QR xii/1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
@@ -125095,7 +125094,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3870",
-      "title": "Si vous n''avez rien à me dire, song for voice and piano",
+      "title": "Si vous n''avez rien a me dire, song for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 45
@@ -125963,7 +125962,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13095",
-      "title": "Choses vues à droite et à gauche; sans lunettes, for violin and piano",
+      "title": "Choses vues a droite et a gauche; sans lunettes, for violin and piano",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 104
@@ -126264,7 +126263,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13174",
-      "title": "Petite ouverture à danser, for piano",
+      "title": "Petite ouverture a danser, for piano",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 104
@@ -130842,7 +130841,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5797",
-      "title": "Humanità e Lucifero, oratorio for soprano, tenor, piccolo, trumpet, strings and continuo",
+      "title": "Humanita e Lucifero, oratorio for soprano, tenor, piccolo, trumpet, strings and continuo",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 65
@@ -130961,7 +130960,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5715",
-      "title": "L''honestà negli amori",
+      "title": "L''honesta negli amori",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 65
@@ -131122,7 +131121,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5758",
-      "title": "Moderato in Do minore, Torino, Bibl. Nazionale Universitaria, Fondo Foà-Giordano, Ms. 394:ASOT II,",
+      "title": "Moderato in Do minore, Torino, Bibl. Nazionale Universitaria, Fondo Foa-Giordano, Ms. 394:ASOT II,",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 65
@@ -131171,7 +131170,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5739",
-      "title": "Oh di Betlemme altera povertà, chamber cantata for soprano and strings, \"Cantata pastorale per la natività di Nostre Signore\"",
+      "title": "Oh di Betlemme altera poverta, chamber cantata for soprano and strings, \"Cantata pastorale per la nativita di Nostre Signore\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 65
@@ -131661,7 +131660,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5754",
-      "title": "Toccata, for keyboard, Turino Fondo Foà-Giordano MS 394",
+      "title": "Toccata, for keyboard, Turino Fondo Foa-Giordano MS 394",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 65
@@ -131920,7 +131919,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5737",
-      "title": "Toccata in Do magg. Torino, Fondo Foà-Giorgano, Ms.394:ASOT, II, pp",
+      "title": "Toccata in Do magg. Torino, Fondo Foa-Giorgano, Ms.394:ASOT, II, pp",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 65
@@ -131955,7 +131954,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5834",
-      "title": "Toccata in Sol magg, Torino, Fondo Foà-Giorgano, Ms.394:ASOT, II",
+      "title": "Toccata in Sol magg, Torino, Fondo Foa-Giorgano, Ms.394:ASOT, II",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 65
@@ -132025,7 +132024,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5809",
-      "title": "Toccata Scarlatti Primo Tono, Torino, Fondo Foà-Giorgano, Ms.401",
+      "title": "Toccata Scarlatti Primo Tono, Torino, Fondo Foa-Giorgano, Ms.401",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 65
@@ -132074,7 +132073,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5799",
-      "title": "Vivace in La minore, Torino, Fondo Foà-Giorgano, Ms.401:ASOT, II, p.95",
+      "title": "Vivace in La minore, Torino, Fondo Foa-Giorgano, Ms.401:ASOT, II, p.95",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 65
@@ -132564,7 +132563,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15647",
-      "title": "Moz-Art à la Haydn, for 2 violins and 11 strings",
+      "title": "Moz-Art a la Haydn, for 2 violins and 11 strings",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 137
@@ -134160,7 +134159,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21359",
-      "title": "3 Écossaises, D.816",
+      "title": "3 Ecossaises, D.816",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134244,7 +134243,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20830",
-      "title": "5 Écossaises, D.697",
+      "title": "5 Ecossaises, D.697",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134293,14 +134292,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21421",
-      "title": "6 Écossaises, D.421",
+      "title": "6 Ecossaises, D.421",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
     },
     {
       "id": "20790",
-      "title": "8 Galops and Écossaises, D.735, op. 49",
+      "title": "8 Galops and Ecossaises, D.735, op. 49",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134335,14 +134334,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20907",
-      "title": "8 Écossaises, D.529",
+      "title": "8 Ecossaises, D.529",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
     },
     {
       "id": "21142",
-      "title": "8 Écossaises, D.977",
+      "title": "8 Ecossaises, D.977",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134363,7 +134362,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20532",
-      "title": "11 Écossaises, D.781",
+      "title": "11 Ecossaises, D.781",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134405,7 +134404,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21216",
-      "title": "12 Waltzes, 17 Landler and 9 Écossaises, D.145, op. 18",
+      "title": "12 Waltzes, 17 Landler and 9 Ecossaises, D.145, op. 18",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134419,7 +134418,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20999",
-      "title": "12 Écossaises, D.299",
+      "title": "12 Ecossaises, D.299",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134454,7 +134453,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21259",
-      "title": "16 Landler and 2 Écossaises, D.734, op. 67",
+      "title": "16 Landler and 2 Ecossaises, D.734, op. 67",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -134587,7 +134586,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21049",
-      "title": "Abschied, D.475, \"Über die Berge zieht ihr fort\"",
+      "title": "Abschied, D.475, \"Uber die Berge zieht ihr fort\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136708,7 +136707,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21001",
-      "title": "Divertissement à la Hongroise, D.818, op. 54",
+      "title": "Divertissement a la Hongroise, D.818, op. 54",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
@@ -139683,7 +139682,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21078",
-      "title": "Wandrers Nachtlied II, D.768, op. 96, no. 3, \"Über allen Gipfeln ist Ruh\"",
+      "title": "Wandrers Nachtlied II, D.768, op. 96, no. 3, \"Uber allen Gipfeln ist Ruh\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139781,7 +139780,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21189",
-      "title": "Wiegenlied III, D.867, op. 105, no. 2, \"Wie sich der Äuglein kindlicher Himmel\"",
+      "title": "Wiegenlied III, D.867, op. 105, no. 2, \"Wie sich der Auglein kindlicher Himmel\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139865,28 +139864,28 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20558",
-      "title": "Écossaise in D major, D.782",
+      "title": "Ecossaise in D major, D.782",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
     },
     {
       "id": "21419",
-      "title": "Écossaise in D minor and F, D.158",
+      "title": "Ecossaise in D minor and F, D.158",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
     },
     {
       "id": "21381",
-      "title": "Écossaise in E flat major, D.511",
+      "title": "Ecossaise in E flat major, D.511",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 183
     },
     {
       "id": "21266",
-      "title": "Über Wildemann, D.884, op. 108, no. 1",
+      "title": "Uber Wildemann, D.884, op. 108, no. 1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -140187,7 +140186,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15108",
-      "title": "Études symphoniques, op. 13",
+      "title": "Etudes symphoniques, op. 13",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 129
@@ -141678,7 +141677,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1616",
-      "title": "2 Impromptus à la Mazur, op. 7",
+      "title": "2 Impromptus a la Mazur, op. 7",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 18
@@ -145927,7 +145926,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21796",
-      "title": "Valse à Betsy Lerche in A flat major, JS 1",
+      "title": "Valse a Betsy Lerche in A flat major, JS 1",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 186
@@ -146053,7 +146052,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21772",
-      "title": "Étude in D major, JS 55",
+      "title": "Etude in D major, JS 55",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 186
@@ -146718,7 +146717,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26357",
-      "title": "Fantaisie, op. 56, \"Souvenirs d''une soiree à Berlin\"",
+      "title": "Fantaisie, op. 56, \"Souvenirs d''une soiree a Berlin\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 212
@@ -146781,7 +146780,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26342",
-      "title": "Fantasie Élegiaque, op. 59",
+      "title": "Fantasie Elegiaque, op. 59",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 212
@@ -149812,7 +149811,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19620",
-      "title": "Die Ägyptische Helena, op. 75, TrV255",
+      "title": "Die Agyptische Helena, op. 75, TrV255",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 171
@@ -151233,7 +151232,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18672",
-      "title": "Die Österreicher, op. 22",
+      "title": "Die Osterreicher, op. 22",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151793,7 +151792,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18455",
-      "title": "Gruß aus Österreich, polka-mazurka, op. 359",
+      "title": "Gruß aus Osterreich, polka-mazurka, op. 359",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151947,7 +151946,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18733",
-      "title": "Hoch Österreich!, op. 371",
+      "title": "Hoch Osterreich!, op. 371",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -152087,7 +152086,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18507",
-      "title": "Invitation à la Polka-Mazur, polka-mazurka, op. 277",
+      "title": "Invitation a la Polka-Mazur, polka-mazurka, op. 277",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -153781,7 +153780,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18793",
-      "title": "Tete-à-Tete-Quadrille, op. 109",
+      "title": "Tete-a-Tete-Quadrille, op. 109",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -154131,14 +154130,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18711",
-      "title": "Ägyptischer, op. 335",
+      "title": "Agyptischer, op. 335",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
     },
     {
       "id": "18675",
-      "title": "Éljen a Magyar, polka schnell, op. 332",
+      "title": "Eljen a Magyar, polka schnell, op. 332",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -154677,7 +154676,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22458",
-      "title": "Scherzo à la russe",
+      "title": "Scherzo a la russe",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 190
@@ -154887,7 +154886,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22422",
-      "title": "Étude",
+      "title": "Etude",
       "subtitle": "For pianola",
       "genre": "Keyboard",
       "composer_id": 190
@@ -155237,7 +155236,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20480",
-      "title": "Chantez à Dieu chanson nouvelle, chantez, ô terre, for 4 voices",
+      "title": "Chantez a Dieu chanson nouvelle, chantez, ô terre, for 4 voices",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 182
@@ -160277,7 +160276,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8432",
-      "title": "Concerto in E minor, for flute, violin and strings, TWV.52:e3, \"Concerto à Sei\"",
+      "title": "Concerto in E minor, for flute, violin and strings, TWV.52:e3, \"Concerto a Sei\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 83
@@ -162090,7 +162089,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8442",
-      "title": "Overture à la Polonoise, suite for harpsichord in D minor, TWV. 32:2",
+      "title": "Overture a la Polonoise, suite for harpsichord in D minor, TWV. 32:2",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 83
@@ -165562,7 +165561,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2710",
-      "title": "Pietà, Signor",
+      "title": "Pieta, Signor",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 35
@@ -165646,7 +165645,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2690",
-      "title": "È la vita un mar d''affanni",
+      "title": "E la vita un mar d''affanni",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 35
@@ -167928,7 +167927,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4749",
-      "title": "Élegie, for cello and piano, A.108",
+      "title": "Elegie, for cello and piano, A.108",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 55
@@ -169482,14 +169481,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "11627",
-      "title": "Concerto per la solennità di S Lorenzo in C major, for 2 oboes, 2 clarinets, 2 recorders, 2 violins, and bassoon, RV.556",
+      "title": "Concerto per la solennita di S Lorenzo in C major, for 2 oboes, 2 clarinets, 2 recorders, 2 violins, and bassoon, RV.556",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 98
     },
     {
       "id": "11832",
-      "title": "Concerto per la solennità di S Lorenzo in D major, for violin, 2 oboes, 2 horns, strings and continuo, RV.562",
+      "title": "Concerto per la solennita di S Lorenzo in D major, for violin, 2 oboes, 2 horns, strings and continuo, RV.562",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 98
@@ -170224,7 +170223,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "11707",
-      "title": "La verità in cimento, RV.739 ",
+      "title": "La verita in cimento, RV.739 ",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 98
@@ -170840,14 +170839,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "12041",
-      "title": "Sonata à 4 al Santo Sepolcro, for 2 violins, viola, and continuo in E flat major, RV.130",
+      "title": "Sonata a 4 al Santo Sepolcro, for 2 violins, viola, and continuo in E flat major, RV.130",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 98
     },
     {
       "id": "11855",
-      "title": "Sonata à 4 in C major, for flute, oboe, bassoon, and continuo, RV.801",
+      "title": "Sonata a 4 in C major, for flute, oboe, bassoon, and continuo, RV.801",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 98
@@ -171470,7 +171469,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "12050",
-      "title": "Violin Concerto in D, RV.212, \"Fatto per la Solennità della San Lingua di San Antonio in Padua, 1712\"",
+      "title": "Violin Concerto in D, RV.212, \"Fatto per la Solennita della San Lingua di San Antonio in Padua, 1712\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 98
@@ -173101,7 +173100,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19282",
-      "title": "7 Variations on Bianchi''s air ''Vien quà, Dorina bella,'' J.53, op. 7",
+      "title": "7 Variations on Bianchi''s air ''Vien qua, Dorina bella,'' J.53, op. 7",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 168
@@ -173605,7 +173604,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19223",
-      "title": "Über die Berge, song for voice and guitar, J.110, op. 25, no. 2",
+      "title": "Uber die Berge, song for voice and guitar, J.110, op. 25, no. 2",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 168
@@ -175348,7 +175347,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17980",
-      "title": "Über Nacht ",
+      "title": "Uber Nacht ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
