@@ -28,8 +28,9 @@ class Work {
             FROM composers`
         );
 
-        const ids = idsRes.rows.map(i => i.id);
-        
+        // const ids = idsRes.rows.map(i => i.id);
+        const ids = [87];
+
         for(let id of ids) {
             const resp = await axios.get(`https://api.openopus.org/work/list/composer/${id}/genre/all.json`);
             if(resp.data.works) {
@@ -63,7 +64,7 @@ class Work {
     };
 
     static async apostrophe(name) {
-        return name.slice(0, name.indexOf("'")) + "'" + name.slice(name.indexOf("'"));
+        return name.replace(/\'/g, "''");
     }
 
 }

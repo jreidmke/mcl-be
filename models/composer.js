@@ -52,7 +52,7 @@ class Composer {
     };
 
     static async apostrophe(name) {
-        return name.slice(0, name.indexOf("'")) + "'" + name.slice(name.indexOf("'"));
+        return name.replace(/\'/g, "''");
     }
 }
 
