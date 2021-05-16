@@ -30,7 +30,7 @@ class Work {
 
         // const ids = idsRes.rows.map(i => i.id);
         
-        const ids = [196, 5, 203];
+        const ids = [192];
 
         for(let id of ids) {
             const resp = await axios.get(`https://api.openopus.org/work/list/composer/${id}/genre/all.json`);
@@ -38,12 +38,15 @@ class Work {
                 for(let w of resp.data.works) {
                     let workObj = {
                         id: w.id,
-                        subtitle: w.subtitle,
+                        title: await this.encodeName(w.title),
+                        subtitle: await this.encodeName(w.subtitle),
                         genre: w.genre,
                         composer_id: id
                     };
-                    workObj.title = await this.encodeName(w.title);
-                    workObj.subtitle = await this.encodeName(w.subtitle);
+
+                    if(workObj.title.indexOf('/"') !== -1) workObj.title = slashes(workObj.title)
+                    if(workObj.subtitle.indexOf('/"') !== -1) workObj.subtitle = slashes(workObj.subtitle)
+
                     workArr.push(workObj);
                 }
             }
@@ -62,7 +65,7 @@ class Work {
     };
 
     static async apostrophe(name) {
-        return name.slice(0, name.indexOf("'")) + "'" + name.slice(name.indexOf("'"));
+        return name.replaceAll('/"', "");
     }
 }
 
