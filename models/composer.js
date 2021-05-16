@@ -32,14 +32,13 @@ class Composer {
                     c.name = await this.encodeName(c.name);
                     c.complete_name = await this.encodeName(c.complete_name);
                     if(c.name.indexOf("'") !== -1) {
-                        c.name = this.apostrophe(c.name);
-                        c.complete_name = this.apostrophe(c.complete_name);
+                        c.name = await this.apostrophe(c.name);
+                        c.complete_name = await this.apostrophe(c.complete_name);
                     } 
                 };
                 composerArr.push(resp.data.composers);
             }
         };
-
         return composerArr.flat();
     };
 

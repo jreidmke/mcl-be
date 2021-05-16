@@ -1,6 +1,6 @@
 INSERT INTO composers
 SELECT *
-FROM json_populate_recordset (NULL::composers, 
+FROM json_populate_recordset (NULL::composers,
 
 '[
     {
@@ -464,8 +464,8 @@ FROM json_populate_recordset (NULL::composers,
     },
     {
       "id": "127",
-      "name": "d'Indy",
-      "complete_name": "Vincent d'Indy",
+      "name": "d''Indy",
+      "complete_name": "Vincent d''Indy",
       "birth": "1851-01-01",
       "death": "1931-01-01",
       "epoch": "Romantic",
