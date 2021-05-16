@@ -285,7 +285,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26895",
-      "title": "Cantos de España, op. 232",
+      "title": "Cantos de Espana, op. 232",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -299,7 +299,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26879",
-      "title": "Suite española no. 1, op. 47, B.7",
+      "title": "Suite espanola no. 1, op. 47, B.7",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -313,7 +313,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26866",
-      "title": "6 Danzas españolas, B.23",
+      "title": "6 Danzas espanolas, B.23",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -327,7 +327,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26842",
-      "title": "6 Valses Pequeños, op. 25",
+      "title": "6 Valses Pequenos, op. 25",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -439,14 +439,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26854",
-      "title": "España, B.45",
+      "title": "Espana, B.45",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
     },
     {
       "id": "26888",
-      "title": "España: 6 hojas de album, op. 165, B.37",
+      "title": "Espana: 6 hojas de album, op. 165, B.37",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -460,7 +460,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26865",
-      "title": "Excerpts from Suite Española",
+      "title": "Excerpts from Suite Espanola",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 216
@@ -537,7 +537,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26859",
-      "title": "Pavana facil para manos pequeñas, for piano in C minor, op. 83, B.28",
+      "title": "Pavana facil para manos pequenas, for piano in C minor, op. 83, B.28",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -572,7 +572,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26869",
-      "title": "Rapsodia española, for piano and orchestra, op. 70 ",
+      "title": "Rapsodia espanola, for piano and orchestra, op. 70 ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 216
@@ -621,7 +621,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26875",
-      "title": "Serenata española in D flat major, op. 181, B.39",
+      "title": "Serenata espanola in D flat major, op. 181, B.39",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -677,7 +677,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26894",
-      "title": "Suite española no. 2, B.32",
+      "title": "Suite espanola no. 2, B.32",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 216
@@ -1384,7 +1384,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13546",
-      "title": "La Femme 100 Têtes, 45 preludes inspired by etchings of Max Ernst, W.60",
+      "title": "La Femme 100 Tetes, 45 preludes inspired by etchings of Max Ernst, W.60",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 108
@@ -2882,56 +2882,56 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9497",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.662",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.662",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9277",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.663",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.663",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9094",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.675",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.675",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9707",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.676",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.676",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9304",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.677",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.677",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "10039",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.711",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.711",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9301",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.715",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.715",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9269",
-      "title": "Allein Gott in der Höh sei Ehr, BWV.717",
+      "title": "Allein Gott in der Hoh sei Ehr, BWV.717",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -3239,7 +3239,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9408",
-      "title": "Cantata no. 1: Wie schön leuchtet der Morgenstern, BWV.1",
+      "title": "Cantata no. 1: Wie schon leuchtet der Morgenstern, BWV.1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -3316,7 +3316,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10010",
-      "title": "Cantata no. 22: Jesus nahm zu sich die Zwölfe, BWV.22",
+      "title": "Cantata no. 22: Jesus nahm zu sich die Zwolfe, BWV.22",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -3344,7 +3344,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9485",
-      "title": "Cantata no. 30: Freue dich, erlöste Schar, BWV.30",
+      "title": "Cantata no. 30: Freue dich, erloste Schar, BWV.30",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -3568,7 +3568,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9804",
-      "title": "Cantata no. 71: Gott ist mein König, BWV.71",
+      "title": "Cantata no. 71: Gott ist mein Konig, BWV.71",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -3729,7 +3729,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9983",
-      "title": "Cantata no. 104: Du Hirte Israel, höre, no. 104",
+      "title": "Cantata no. 104: Du Hirte Israel, hore, no. 104",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -3792,7 +3792,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9280",
-      "title": "Cantata no. 117: Sei Lob'' und Ehr'' dem höchsten, BWV.117",
+      "title": "Cantata no. 117: Sei Lob'' und Ehr'' dem hochsten, BWV.117",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4086,7 +4086,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9255",
-      "title": "Cantata no. 173: Erhöhtes Fleisch und Blut, BWV.173",
+      "title": "Cantata no. 173: Erhohtes Fleisch und Blut, BWV.173",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4100,7 +4100,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9341",
-      "title": "Cantata no. 174: Ich liebe den Höchsten von ganzen Gemute, BWV.174",
+      "title": "Cantata no. 174: Ich liebe den Hochsten von ganzen Gemute, BWV.174",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4135,7 +4135,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9098",
-      "title": "Cantata no. 182: Himmelskönig, sei willkommen, BWV.182",
+      "title": "Cantata no. 182: Himmelskonig, sei willkommen, BWV.182",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4198,7 +4198,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9561",
-      "title": "Cantata no. 194: Höchsterwunschtes Freudenfest, BWV.194",
+      "title": "Cantata no. 194: Hochsterwunschtes Freudenfest, BWV.194",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4226,7 +4226,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9727",
-      "title": "Cantata no. 197a, Ehre sei Gott in der Höhe, BWV.197a",
+      "title": "Cantata no. 197a, Ehre sei Gott in der Hohe, BWV.197a",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4282,7 +4282,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9085",
-      "title": "Cantata no. 207a: Auf, schmetternde Töne, BWV.207a",
+      "title": "Cantata no. 207a: Auf, schmetternde Tone, BWV.207a",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4324,7 +4324,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9261",
-      "title": "Cantata no. 214: Tönet, ihr Pauken! Erchallet, Trompeten!, BWV.214",
+      "title": "Cantata no. 214: Tonet, ihr Pauken! Erchallet, Trompeten!, BWV.214",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 87
@@ -4779,7 +4779,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9071",
-      "title": "Der Gerechte kömmt um, motet a5, for 2 flutes, 2 oboes, strings, and continuo, BWV. deest",
+      "title": "Der Gerechte kommt um, motet a5, for 2 flutes, 2 oboes, strings, and continuo, BWV. deest",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -4842,7 +4842,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10169",
-      "title": "Dich bet'' ich an, mein höchster Gott, BWV.449",
+      "title": "Dich bet'' ich an, mein hochster Gott, BWV.449",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -5003,7 +5003,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9937",
-      "title": "Ein Kindelein so löbelich ",
+      "title": "Ein Kindelein so lobelich ",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -5451,7 +5451,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9849",
-      "title": "Fuga super Allein Gott in der Höh sei Ehr, BWV.716",
+      "title": "Fuga super Allein Gott in der Hoh sei Ehr, BWV.716",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -6186,7 +6186,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9298",
-      "title": "Herr Jesu Christ, du höchstes Gut, BWV.1114",
+      "title": "Herr Jesu Christ, du hochstes Gut, BWV.1114",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -6620,7 +6620,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9498",
-      "title": "Jesu ist das schönste Licht, BWV.474",
+      "title": "Jesu ist das schonste Licht, BWV.474",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 87
@@ -6767,7 +6767,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10058",
-      "title": "Komm, Gott, Schöpfer, Heiliger Geist, BWV.667",
+      "title": "Komm, Gott, Schopfer, Heiliger Geist, BWV.667",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -6788,7 +6788,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10056",
-      "title": "Komm, Gott Schöpfer, heiliger Geist, BWV.631",
+      "title": "Komm, Gott Schopfer, heiliger Geist, BWV.631",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -7453,14 +7453,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9595",
-      "title": "O Herre Gott, dein göttlich''s Wort, BWV.757",
+      "title": "O Herre Gott, dein gottlich''s Wort, BWV.757",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9273",
-      "title": "O Herre Gott, dein göttlich''s Wort, BWV.1110",
+      "title": "O Herre Gott, dein gottlich''s Wort, BWV.1110",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -8755,7 +8755,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9471",
-      "title": "Trio super Allein Gott in der Höh sei Ehr, BWV.664",
+      "title": "Trio super Allein Gott in der Hoh sei Ehr, BWV.664",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -9147,14 +9147,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9809",
-      "title": "Wenn wir in höchsten Nöten sein, BWV.641",
+      "title": "Wenn wir in hochsten Noten sein, BWV.641",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9166",
-      "title": "Wenn wir in höchsten Nöten sein, BWV.668",
+      "title": "Wenn wir in hochsten Noten sein, BWV.668",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -9245,14 +9245,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "9889",
-      "title": "Wie schön leuchtet uns der Morgenstern, BWV.739",
+      "title": "Wie schon leuchtet uns der Morgenstern, BWV.739",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
     },
     {
       "id": "9617",
-      "title": "Wie schön leuchtet uns der Morgenstern, BWV.764",
+      "title": "Wie schon leuchtet uns der Morgenstern, BWV.764",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 87
@@ -13543,7 +13543,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1821",
-      "title": "Chant de pêcheur",
+      "title": "Chant de pecheur",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 21
@@ -13704,7 +13704,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1873",
-      "title": "Pustïnya ",
+      "title": "Pustinya ",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 21
@@ -14747,7 +14747,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14675",
-      "title": "Húsz magyar nepdal  in 4 volumes, BB98, Sz.92",
+      "title": "Husz magyar nepdal  in 4 volumes, BB98, Sz.92",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 125
@@ -17050,7 +17050,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16174",
-      "title": "March in F major, WoO 18, \"Fur die Böhmische Landwehr\"",
+      "title": "March in F major, WoO 18, \"Fur die Bohmische Landwehr\"",
       "subtitle": "For wind ensemble",
       "genre": "Orchestral",
       "composer_id": 145
@@ -17141,7 +17141,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16127",
-      "title": "Mödlinger Tanze, WoO 17",
+      "title": "Modlinger Tanze, WoO 17",
       "subtitle": "For 2 clarinets, 2 horns, 2 violins and double bass",
       "genre": "Chamber",
       "composer_id": 145
@@ -18723,7 +18723,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26224",
-      "title": "Die Flötenspielerin",
+      "title": "Die Flotenspielerin",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 210
@@ -19661,7 +19661,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20038",
-      "title": "La Mort de Cleopâtre, for soprano and orchestra, H.36",
+      "title": "La Mort de Cleopatre, for soprano and orchestra, H.36",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 175
@@ -19696,7 +19696,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20017",
-      "title": "Le Jeune Pâtre breton, for voice and piano and horn ad lib, H.65, op. 13, no. 4",
+      "title": "Le Jeune Patre breton, for voice and piano and horn ad lib, H.65, op. 13, no. 4",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 175
@@ -19822,7 +19822,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20021",
-      "title": "Rêverie et caprice, for violin and orchestra, H.88, op. 8",
+      "title": "Reverie et caprice, for violin and orchestra, H.88, op. 8",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 175
@@ -19871,7 +19871,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20058",
-      "title": "Zaïde, bolero, for voice, castanets and piano, H.107, op. 19, no. 1",
+      "title": "Zaide, bolero, for voice, castanets and piano, H.107, op. 19, no. 1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 175
@@ -20389,7 +20389,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23079",
-      "title": "A votre âge",
+      "title": "A votre age",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 195
@@ -20585,7 +20585,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23076",
-      "title": "Symphony no. 4 in E flat major, \"Sinfonie naïve\"",
+      "title": "Symphony no. 4 in E flat major, \"Sinfonie naive\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 195
@@ -20718,7 +20718,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4103",
-      "title": "Litaniæ de Sancto Josepho à20, for eight solo voices, double chorus, orchestra and continuo, C.44",
+      "title": "Litania de Sancto Josepho à20, for eight solo voices, double chorus, orchestra and continuo, C.44",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 47
@@ -21383,7 +21383,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6516",
-      "title": "Les pêcheurs de perles ",
+      "title": "Les pecheurs de perles ",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 68
@@ -21859,7 +21859,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13380",
-      "title": "Meditation Hebraïque, for cello and piano",
+      "title": "Meditation Hebraique, for cello and piano",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 106
@@ -22013,14 +22013,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13370",
-      "title": "Suite hebraïque, for viola and orchestra",
+      "title": "Suite hebraique, for viola and orchestra",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 106
     },
     {
       "id": "13395",
-      "title": "Suite hebraïque, for viola and piano",
+      "title": "Suite hebraique, for viola and piano",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 106
@@ -23266,14 +23266,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3600",
-      "title": "Chto tï rano, zoren''ka ",
+      "title": "Chto ti rano, zoren''ka ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 43
     },
     {
       "id": "3626",
-      "title": "Dlya beregov otchiznï dal''noy ",
+      "title": "Dlya beregov otchizni dal''noy ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 43
@@ -23301,7 +23301,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3609",
-      "title": "Krasavitsa-rïbachka ",
+      "title": "Krasavitsa-ribachka ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 43
@@ -23322,7 +23322,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3607",
-      "title": "Otravoy polnï moi pesni ",
+      "title": "Otravoy polni moi pesni ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 43
@@ -23385,7 +23385,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3622",
-      "title": "Septain or Chudnïy sad ",
+      "title": "Septain or Chudniy sad ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 43
@@ -23448,7 +23448,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15243",
-      "title": "Le marteau sans maître, for alto, alto flute, guitar, vibes, xylorimba, percussion and viola",
+      "title": "Le marteau sans maitre, for alto, alto flute, guitar, vibes, xylorimba, percussion and viola",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 132
@@ -23777,7 +23777,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17286",
-      "title": "Variacões concertantes, for string orchestra, harp and solo string quartet",
+      "title": "Variacoes concertantes, for string orchestra, harp and solo string quartet",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 153
@@ -24799,7 +24799,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7799",
-      "title": "Töne, lindernder Klang!, WoO 28",
+      "title": "Tone, lindernder Klang!, WoO 28",
       "subtitle": "Canon",
       "genre": "Vocal",
       "composer_id": 80
@@ -27795,7 +27795,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6994",
-      "title": "Att du, Jesu, will mig höra, for soprano, 2 violins and continuo, BuxWV8",
+      "title": "Att du, Jesu, will mig hora, for soprano, 2 violins and continuo, BuxWV8",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 73
@@ -28152,7 +28152,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6847",
-      "title": "Herren vår Gud, for SATB voices, 2 violins, violone and continuo, BuxWV40",
+      "title": "Herren var Gud, for SATB voices, 2 violins, violone and continuo, BuxWV40",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 73
@@ -28523,7 +28523,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7005",
-      "title": "O fröhliche Stunden, O fröhliche Zeit, for soprano, 2 violins, violone and continuo, BuxWV84",
+      "title": "O frohliche Stunden, O frohliche Zeit, for soprano, 2 violins, violone and continuo, BuxWV84",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 73
@@ -28929,7 +28929,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6979",
-      "title": "Wie schön leuchtet der Morgenstern, BuxWV223",
+      "title": "Wie schon leuchtet der Morgenstern, BuxWV223",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 73
@@ -32002,7 +32002,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17891",
-      "title": "Cancão Sertaneja, for viola and piano",
+      "title": "Cancao Sertaneja, for viola and piano",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 159
@@ -32128,7 +32128,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17874",
-      "title": "Não sei, for voice and piano",
+      "title": "Nao sei, for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 159
@@ -32324,7 +32324,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17859",
-      "title": "Vai azulão, for voice and piano",
+      "title": "Vai azulao, for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 159
@@ -32933,7 +32933,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14525",
-      "title": "España, rhapsody for orchestra",
+      "title": "Espana, rhapsody for orchestra",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 123
@@ -33038,7 +33038,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14556",
-      "title": "Fête polonaise",
+      "title": "Fete polonaise",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 123
@@ -33052,7 +33052,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14526",
-      "title": "Habañera",
+      "title": "Habanera",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 123
@@ -33164,7 +33164,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14530",
-      "title": "Souvenir d''España, for 1 Piano-6 Hands",
+      "title": "Souvenir d''Espana, for 1 Piano-6 Hands",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 123
@@ -33192,14 +33192,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "686",
-      "title": "Musique de theâtre pour ''Andromede'', H.504",
+      "title": "Musique de theatre pour ''Andromede'', H.504",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 9
     },
     {
       "id": "701",
-      "title": "Musique de theâtre pour ''Circe'', H.496",
+      "title": "Musique de theatre pour ''Circe'', H.496",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 9
@@ -33255,7 +33255,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "699",
-      "title": "Antienne pour les violons, flûtes et hautbois, for 2 flutes, oboe, strings and continuo, H.532",
+      "title": "Antienne pour les violons, flutes et hautbois, for 2 flutes, oboe, strings and continuo, H.532",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 9
@@ -33360,7 +33360,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "798",
-      "title": "Chant joyeux du temps de Pâques, for 6 voices, chorus, strings and contiunuo, H.339",
+      "title": "Chant joyeux du temps de Paques, for 6 voices, chorus, strings and contiunuo, H.339",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33556,7 +33556,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "825",
-      "title": "In honorem Sancti Ludovici Regis Galliæ, histoire sacree for 3 voices, orchestra and continuo, H.418",
+      "title": "In honorem Sancti Ludovici Regis Gallia, histoire sacree for 3 voices, orchestra and continuo, H.418",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33801,7 +33801,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "812",
-      "title": "Messe à 8 voix et 8 violons et flûtes, for 8 voices, chorus, 2 flutes, strings and continuo, H.3",
+      "title": "Messe à 8 voix et 8 violons et flutes, for 8 voices, chorus, 2 flutes, strings and continuo, H.3",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33850,7 +33850,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "704",
-      "title": "Meditations pour le carême, 10 motets for 3 voices and continuo, H.380-89",
+      "title": "Meditations pour le careme, 10 motets for 3 voices and continuo, H.380-89",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -33976,7 +33976,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "835",
-      "title": "Ouverture pour le sacre d''un evêque, for 2 flutes, oboe, strings and continuo, H.537",
+      "title": "Ouverture pour le sacre d''un eveque, for 2 flutes, oboe, strings and continuo, H.537",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 9
@@ -33990,7 +33990,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "740",
-      "title": "Pour la fête de L''Épiphanie, histoire sacree for 3 voices, 2 treble instruments and continuo, H.395",
+      "title": "Pour la fete de L''Épiphanie, histoire sacree for 3 voices, 2 treble instruments and continuo, H.395",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -34200,7 +34200,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "688",
-      "title": "Tout renaît, tout fleurit, air for 2 voices and continuo, H.468",
+      "title": "Tout renait, tout fleurit, air for 2 voices and continuo, H.468",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 9
@@ -34424,7 +34424,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5453",
-      "title": "La tempête, incidental music for solo voices and small orchestra, op. 18",
+      "title": "La tempete, incidental music for solo voices and small orchestra, op. 18",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 61
@@ -34494,7 +34494,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5463",
-      "title": "Soir de fête, symphonic poem, op. 32",
+      "title": "Soir de fete, symphonic poem, op. 32",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 61
@@ -35047,7 +35047,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14316",
-      "title": "Lodoïska ",
+      "title": "Lodoiska ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 120
@@ -35859,7 +35859,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17140",
-      "title": "Variations on ''Non più mesta'', B.9",
+      "title": "Variations on ''Non piu mesta'', B.9",
       "subtitle": "For flute and piano",
       "genre": "Chamber",
       "composer_id": 152
@@ -39212,7 +39212,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13192",
-      "title": "Berceuse heroïque, L.132",
+      "title": "Berceuse heroique, L.132",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
@@ -39352,21 +39352,21 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13330",
-      "title": "Fête galante, L.23",
+      "title": "Fete galante, L.23",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 105
     },
     {
       "id": "13306",
-      "title": "Fêtes galantes, Set 1, L.80",
+      "title": "Fetes galantes, Set 1, L.80",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 105
     },
     {
       "id": "13207",
-      "title": "Fêtes galantes, Set 2, L.104",
+      "title": "Fetes galantes, Set 2, L.104",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 105
@@ -39478,7 +39478,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13191",
-      "title": "La boîte à joujoux, L.128",
+      "title": "La boite à joujoux, L.128",
       "subtitle": "Ballet",
       "genre": "Stage",
       "composer_id": 105
@@ -39870,14 +39870,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13247",
-      "title": "Rêverie, L.8",
+      "title": "Reverie, L.8",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 105
     },
     {
       "id": "13325",
-      "title": "Rêverie, L.68",
+      "title": "Reverie, L.68",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 105
@@ -40003,7 +40003,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23025",
-      "title": "La source, ou Naïla ",
+      "title": "La source, ou Naila ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 193
@@ -40402,7 +40402,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "643",
-      "title": "I-Brasîl, song for voice and piano, RTv/28",
+      "title": "I-Brasil, song for voice and piano, RTv/28",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 8
@@ -40430,7 +40430,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "646",
-      "title": "Jeh havde en nyskaaren Seljefløjte, song for voice and piano, RTv/14",
+      "title": "Jeh havde en nyskaaren Seljeflojte, song for voice and piano, RTv/14",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 8
@@ -41648,7 +41648,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25435",
-      "title": "Sinfonia in A minor, \"Il delirio delli compositorì\"",
+      "title": "Sinfonia in A minor, \"Il delirio delli compositori\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 206
@@ -42236,7 +42236,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10473",
-      "title": "Che non mi disse un dì ",
+      "title": "Che non mi disse un di ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 89
@@ -42467,7 +42467,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10589",
-      "title": "Il giovedì grasso",
+      "title": "Il giovedi grasso",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 89
@@ -42831,7 +42831,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10547",
-      "title": "Non m''ami più",
+      "title": "Non m''ami piu",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 89
@@ -42887,7 +42887,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10455",
-      "title": "Più che non m''ama un angelo ",
+      "title": "Piu che non m''ama un angelo ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 89
@@ -45771,7 +45771,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13761",
-      "title": "Sur le même accord, for violin and orchestra",
+      "title": "Sur le meme accord, for violin and orchestra",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 110
@@ -48389,7 +48389,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2983",
-      "title": "Suite Châtelaine",
+      "title": "Suite Chatelaine",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 38
@@ -48564,7 +48564,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2910",
-      "title": "Noches en los jardines de España, for piano and orchestra, G.49",
+      "title": "Noches en los jardines de Espana, for piano and orchestra, G.49",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 37
@@ -49313,7 +49313,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4560",
-      "title": "Messe des pêcheurs de Villerville, for solo voices, women''s chorus, organ and violin or small orchestra ",
+      "title": "Messe des pecheurs de Villerville, for solo voices, women''s chorus, organ and violin or small orchestra ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 53
@@ -49593,7 +49593,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4602",
-      "title": "Une Châteleine en sa tour, for harp, op. 110",
+      "title": "Une Chateleine en sa tour, for harp, op. 110",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 53
@@ -50391,7 +50391,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1138",
-      "title": "Piece heroïque, for organ",
+      "title": "Piece heroique, for organ",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 12
@@ -50909,7 +50909,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5153",
-      "title": "Così mi disprezzate?, for contralto",
+      "title": "Cosi mi disprezzate?, for contralto",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 58
@@ -52400,7 +52400,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1411",
-      "title": "Il sol, qualor più splende, W4.69",
+      "title": "Il sol, qualor piu splende, W4.69",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -52435,7 +52435,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1363",
-      "title": "Io parto, e non più dissi, W6.29",
+      "title": "Io parto, e non piu dissi, W6.29",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -52932,7 +52932,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1300",
-      "title": "Son sì belle le rose",
+      "title": "Son si belle le rose",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -52967,7 +52967,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1293",
-      "title": "Sì gioioso mi fanno i dolor miei",
+      "title": "Si gioioso mi fanno i dolor miei",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 14
@@ -54192,7 +54192,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2462",
-      "title": "Danzas argentinas para los niños ",
+      "title": "Danzas argentinas para los ninos ",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 32
@@ -54332,7 +54332,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2502",
-      "title": "Puneña no. 2 for cello, op. 45, \"Hommage à Paul Sacher\"",
+      "title": "Punena no. 2 for cello, op. 45, \"Hommage à Paul Sacher\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 32
@@ -54703,7 +54703,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10890",
-      "title": "La Belle et la Bête",
+      "title": "La Belle et la Bete",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 95
@@ -55389,7 +55389,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20304",
-      "title": "Ekh tï, pesnya, for soprano, alto and piano, op. 80",
+      "title": "Ekh ti, pesnya, for soprano, alto and piano, op. 80",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 179
@@ -55732,7 +55732,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20275",
-      "title": "Rêverie for Horn and Piano in D flat major, op. 24",
+      "title": "Reverie for Horn and Piano in D flat major, op. 24",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 179
@@ -56509,7 +56509,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17546",
-      "title": "Farewell Waltz  in G major, G.vi117, \"Proschal''nïy val''s\"",
+      "title": "Farewell Waltz  in G major, G.vi117, \"Proschal''niy val''s\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 156
@@ -56537,7 +56537,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17637",
-      "title": "How Sweet it is to Be With You, G.x277, \"Kak sladko s toboyu mne bït\"",
+      "title": "How Sweet it is to Be With You, G.x277, \"Kak sladko s toboyu mne bit\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 156
@@ -56782,7 +56782,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17625",
-      "title": "Soon you will forget Me, G.x290, \"Tï skoro menya pozabudesh\"",
+      "title": "Soon you will forget Me, G.x290, \"Ti skoro menya pozabudesh\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 156
@@ -56922,7 +56922,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17589",
-      "title": "The Toasting Cup, G.x296, \"Zazhdravnïy kubok\"",
+      "title": "The Toasting Cup, G.x296, \"Zazhdravniy kubok\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 156
@@ -57076,7 +57076,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17622",
-      "title": "When I Hear Your Voice, G.x294, \"Slïshu li golos tvoy\"",
+      "title": "When I Hear Your Voice, G.x294, \"Slishu li golos tvoy\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 156
@@ -57349,7 +57349,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "11",
-      "title": "Die Königin von Saba, op. 27",
+      "title": "Die Konigin von Saba, op. 27",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 1
@@ -57510,7 +57510,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25454",
-      "title": "Missa de Nossa Senhora da Conceicão, for soloists, chorus and orchestra",
+      "title": "Missa de Nossa Senhora da Conceicao, for soloists, chorus and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 207
@@ -58238,14 +58238,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2251",
-      "title": "L''âme d''un ange, song for voice and piano",
+      "title": "L''ame d''un ange, song for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 29
     },
     {
       "id": "2253",
-      "title": "La chanson du pêcheur, for voice and piano",
+      "title": "La chanson du pecheur, for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 29
@@ -60534,7 +60534,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7260",
-      "title": "Capricho español, op. 39, H.30",
+      "title": "Capricho espanol, op. 39, H.30",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 76
@@ -60856,7 +60856,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7256",
-      "title": "Paises soñados: palacio encantado en el mar, leyenda, DLR 5:9",
+      "title": "Paises sonados: palacio encantado en el mar, leyenda, DLR 5:9",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 76
@@ -60912,7 +60912,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7261",
-      "title": "Rêverie-improvisation, H.114",
+      "title": "Reverie-improvisation, H.114",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 76
@@ -61381,7 +61381,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18142",
-      "title": "Attegløyma, EG 142",
+      "title": "Attegloyma, EG 142",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61416,7 +61416,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18163",
-      "title": "Bjørneskytten, for male chorus, EG 162b",
+      "title": "Bjorneskytten, for male chorus, EG 162b",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61430,7 +61430,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18098",
-      "title": "Blåbæret, EG 145",
+      "title": "Blabaret, EG 145",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61472,7 +61472,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18100",
-      "title": "Den hvide, røde Rose, EG 137",
+      "title": "Den hvide, rode Rose, EG 137",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61598,7 +61598,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18067",
-      "title": "Fædrelandssang, EG 151",
+      "title": "Fadrelandssang, EG 151",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61633,7 +61633,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18156",
-      "title": "I høst, concert overture, op. 11",
+      "title": "I host, concert overture, op. 11",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 162
@@ -61696,14 +61696,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18021",
-      "title": "Jægeren, EG 157",
+      "title": "Jageren, EG 157",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
     },
     {
       "id": "18069",
-      "title": "Klaras sang af Frieriet på Helgoland, EG 124",
+      "title": "Klaras sang af Frieriet pa Helgoland, EG 124",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61759,7 +61759,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18085",
-      "title": "Morgenbøn på Skolen, EG 139",
+      "title": "Morgenbon pa Skolen, EG 139",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61843,7 +61843,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18076",
-      "title": "På Hamars Ruiner, EG 140",
+      "title": "Pa Hamars Ruiner, EG 140",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61969,14 +61969,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18030",
-      "title": "Sørgemarsj over Rikard Nordraak  in A minor, EG 107",
+      "title": "Sorgemarsj over Rikard Nordraak  in A minor, EG 107",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 162
     },
     {
       "id": "18026",
-      "title": "Til Generalkonsul Christian Tønsberg, EG 136",
+      "title": "Til Generalkonsul Christian Tonsberg, EG 136",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -61990,7 +61990,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18027",
-      "title": "Til L.M. Lindemans Sølvbryllup, EG 135",
+      "title": "Til L.M. Lindemans Solvbryllup, EG 135",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -62011,14 +62011,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18079",
-      "title": "Tåren, EG 128",
+      "title": "Taren, EG 128",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
     },
     {
       "id": "18101",
-      "title": "Under Juletræet, EG 144",
+      "title": "Under Juletraet, EG 144",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -62032,7 +62032,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18063",
-      "title": "Ved Halfdan Kjerulfs Mindestøtte ",
+      "title": "Ved Halfdan Kjerulfs Mindestotte ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 162
@@ -64202,7 +64202,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6482",
-      "title": "Partì, l''idolo mio, for soprano and continuo, HWV.147",
+      "title": "Parti, l''idolo mio, for soprano and continuo, HWV.147",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 67
@@ -64510,7 +64510,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6499",
-      "title": "Sorge il dì, for soprano, alto, bass, and orchestra, HWV.72, \"Aci, Galatea o Polifemo\"",
+      "title": "Sorge il di, for soprano, alto, bass, and orchestra, HWV.72, \"Aci, Galatea o Polifemo\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 67
@@ -65476,7 +65476,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26137",
-      "title": "Die Schöpfung, Hob.XXI:2, \"The Creation\"",
+      "title": "Die Schopfung, Hob.XXI:2, \"The Creation\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 208
@@ -65805,7 +65805,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25585",
-      "title": "Alfred, König der Angelsachsen, or Der patriotische König, incidental music, Hob.XXX:5",
+      "title": "Alfred, Konig der Angelsachsen, or Der patriotische Konig, incidental music, Hob.XXX:5",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 208
@@ -66316,7 +66316,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25546",
-      "title": "Die Sieben letzten Worte unseres Erlösers am Kreuze, Hob.XX:2",
+      "title": "Die Sieben letzten Worte unseres Erlosers am Kreuze, Hob.XX:2",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 208
@@ -67975,7 +67975,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25509",
-      "title": "Mass for soloists, chorus, organ, and orchestra in B flat major, Hob.XXII:13, \"Schöpfungsmesse\"",
+      "title": "Mass for soloists, chorus, organ, and orchestra in B flat major, Hob.XXII:13, \"Schopfungsmesse\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 208
@@ -69949,7 +69949,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17521",
-      "title": "Erlkönig, fantasy ",
+      "title": "Erlkonig, fantasy ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 155
@@ -71419,7 +71419,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17441",
-      "title": "Suite franzõsischer tanze, for chamber ensemble",
+      "title": "Suite franzosischer tanze, for chamber ensemble",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 154
@@ -71594,7 +71594,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17320",
-      "title": "Violin Sonata, op. 31, no. 2, \"Es ist so schönes Wetter draussen\"",
+      "title": "Violin Sonata, op. 31, no. 2, \"Es ist so schones Wetter draussen\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 154
@@ -72406,7 +72406,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17763",
-      "title": "Sværm, for string quartet, op. 190b",
+      "title": "Svarm, for string quartet, op. 190b",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 158
@@ -73092,7 +73092,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24861",
-      "title": "Jeanne d''Arc au bûcher, H.99",
+      "title": "Jeanne d''Arc au bucher, H.99",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 200
@@ -73288,7 +73288,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24919",
-      "title": "Crime et Châtiment, H.94",
+      "title": "Crime et Chatiment, H.94",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 200
@@ -73554,7 +73554,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24890",
-      "title": "Prelude pour La Tempête, H.48a",
+      "title": "Prelude pour La Tempete, H.48a",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 200
@@ -73792,7 +73792,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2335",
-      "title": "Adagio, Variations and Rondo on ''Schöne Minka'' in A major, for piano, flute and cello, op. 78",
+      "title": "Adagio, Variations and Rondo on ''Schone Minka'' in A major, for piano, flute and cello, op. 78",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 30
@@ -73876,7 +73876,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2333",
-      "title": "Das Zauberschloss, oder Das aufgelöste Ratsel, 4 numbers for the Vigano''s ballet, WoO 32, S. 88",
+      "title": "Das Zauberschloss, oder Das aufgeloste Ratsel, 4 numbers for the Vigano''s ballet, WoO 32, S. 88",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 30
@@ -73904,7 +73904,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2386",
-      "title": "Final Ballet for Herold''s opera ''Das Zauberglöckchen'', WoO 31, S. 206",
+      "title": "Final Ballet for Herold''s opera ''Das Zauberglockchen'', WoO 31, S. 206",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 30
@@ -74485,21 +74485,21 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1448",
-      "title": "Dornröschen, 5 tone pictures from the opera",
+      "title": "Dornroschen, 5 tone pictures from the opera",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 15
     },
     {
       "id": "1453",
-      "title": "Dornröschen, opera",
+      "title": "Dornroschen, opera",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 15
     },
     {
       "id": "1445",
-      "title": "Königskinder",
+      "title": "Konigskinder",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 15
@@ -74870,7 +74870,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14519",
-      "title": "Le petit âne blanc, for voice and piano ",
+      "title": "Le petit ane blanc, for voice and piano ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 122
@@ -74905,7 +74905,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14464",
-      "title": "Ouverture de fête",
+      "title": "Ouverture de fete",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 122
@@ -77327,7 +77327,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "10967",
-      "title": "Potulný silenec, for soprano, tenor, baritone and male chorus, JW IV/43",
+      "title": "Potulny silenec, for soprano, tenor, baritone and male chorus, JW IV/43",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 96
@@ -79392,7 +79392,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2581",
-      "title": "Punkösdölo, for high voice chorus, \"Whitsuntide\"",
+      "title": "Punkosdolo, for high voice chorus, \"Whitsuntide\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 34
@@ -79511,7 +79511,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2589",
-      "title": "Túrot eszik a cigany, folksong for female chorus or mixed chorus",
+      "title": "Turot eszik a cigany, folksong for female chorus or mixed chorus",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 34
@@ -82115,7 +82115,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2112",
-      "title": "Die große Schildkröten: Fanfare vom Sudchinesischen Meer, for trumpet",
+      "title": "Die große Schildkroten: Fanfare vom Sudchinesischen Meer, for trumpet",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 26
@@ -82129,7 +82129,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2098",
-      "title": "Etude 14a, for player piano, \"Coloana fara stârsit\"",
+      "title": "Etude 14a, for player piano, \"Coloana fara starsit\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 26
@@ -82675,7 +82675,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24343",
-      "title": "12 Chorales, Zwölf alte deutsche gestliche, S.50",
+      "title": "12 Chorales, Zwolf alte deutsche gestliche, S.50",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -82738,7 +82738,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24220",
-      "title": "Adelaïde, S.466",
+      "title": "Adelaide, S.466",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -83032,7 +83032,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23930",
-      "title": "Benedictus and Offertorium aus der ungarischen Krönungsmesse, S.501",
+      "title": "Benedictus and Offertorium aus der ungarischen Kronungsmesse, S.501",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -83256,14 +83256,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24348",
-      "title": "Der König von Thule, S.278",
+      "title": "Der Konig von Thule, S.278",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
     },
     {
       "id": "23889",
-      "title": "Der traurige Mönch, for narrator and piano, S.348",
+      "title": "Der traurige Monch, for narrator and piano, S.348",
       "subtitle": "Melodrama",
       "genre": "Stage",
       "composer_id": 197
@@ -83508,7 +83508,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23865",
-      "title": "En rêve, S.207, R.87",
+      "title": "En reve, S.207, R.87",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -83536,7 +83536,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24232",
-      "title": "Es war einmal ein König, for soloist, male chorus and piano, S.73 ",
+      "title": "Es war einmal ein Konig, for soloist, male chorus and piano, S.73 ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
@@ -83956,14 +83956,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24161",
-      "title": "Heroïde funebre, S.102",
+      "title": "Heroide funebre, S.102",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 197
     },
     {
       "id": "24166",
-      "title": "Heroïde funebre, S.642",
+      "title": "Heroide funebre, S.642",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -84026,7 +84026,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24258",
-      "title": "Im Rhein, im schönen Strome, S.272",
+      "title": "Im Rhein, im schonen Strome, S.272",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
@@ -84082,7 +84082,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24104",
-      "title": "Jeanne d''Arc au Bûcher, S.293",
+      "title": "Jeanne d''Arc au Bucher, S.293",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
@@ -84187,7 +84187,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24203",
-      "title": "Les adieux, rêverie, from ''Romeo et Juliette'', S.409, R.169",
+      "title": "Les adieux, reverie, from ''Romeo et Juliette'', S.409, R.169",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 197
@@ -85433,7 +85433,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23926",
-      "title": "Wieder möcht ich dir begegnen, S.322",
+      "title": "Wieder mocht ich dir begegnen, S.322",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
@@ -85447,7 +85447,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24151",
-      "title": "Wie singt die Lerche schön, S.312",
+      "title": "Wie singt die Lerche schon, S.312",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 197
@@ -85839,7 +85839,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "904",
-      "title": "Natus in Judæa Deus, for double chorus and orchestra, LWV77/17",
+      "title": "Natus in Judaa Deus, for double chorus and orchestra, LWV77/17",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 10
@@ -85888,7 +85888,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "876",
-      "title": "Plaude lætare, for double chorus and orchestra, LWV37",
+      "title": "Plaude latare, for double chorus and orchestra, LWV37",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 10
@@ -86147,7 +86147,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15937",
-      "title": "Dormez cette pâleur nous est venue de loin, for tenor and orchestra",
+      "title": "Dormez cette paleur nous est venue de loin, for tenor and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 142
@@ -87890,7 +87890,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20120",
-      "title": "Ah, che non puo più vivere lontano, for 2 voices and continuo, SF.382",
+      "title": "Ah, che non puo piu vivere lontano, for 2 voices and continuo, SF.382",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 177
@@ -88016,7 +88016,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20138",
-      "title": "Così farai, che s''empia il cor di gioja, for alto, tenor and bass",
+      "title": "Cosi farai, che s''empia il cor di gioja, for alto, tenor and bass",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 177
@@ -89136,7 +89136,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1073",
-      "title": "Fleur de pêcher, H.213bisB",
+      "title": "Fleur de pecher, H.213bisB",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 11
@@ -89157,7 +89157,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "989",
-      "title": "Foxtrot narozený \"na Ruzku\", H.122",
+      "title": "Foxtrot narozeny \"na Ruzku\", H.122",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 11
@@ -89409,14 +89409,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1010",
-      "title": "Nový spalicek, H.288, \"New Chap-Book\"",
+      "title": "Novy spalicek, H.288, \"New Chap-Book\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 11
     },
     {
       "id": "1120",
-      "title": "Ohnivý muz, song for voice and piano, H.71",
+      "title": "Ohnivy muz, song for voice and piano, H.71",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 11
@@ -90249,7 +90249,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14618",
-      "title": "Thaïs",
+      "title": "Thais",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 124
@@ -90312,7 +90312,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14597",
-      "title": "Amours benis: Une aube fraîche et printaniere, for voice, cello and piano ",
+      "title": "Amours benis: Une aube fraiche et printaniere, for voice, cello and piano ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 124
@@ -90361,7 +90361,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14604",
-      "title": "Cleopâtre",
+      "title": "Cleopatre",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 124
@@ -90704,7 +90704,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14619",
-      "title": "Thaïs ",
+      "title": "Thais ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 124
@@ -91719,7 +91719,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16671",
-      "title": "Hör mein Bitten",
+      "title": "Hor mein Bitten",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 147
@@ -91740,7 +91740,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16802",
-      "title": "Jagdlied, song for male chorus, op. 120, no. 1, \"Auf, ihr Herrn und Damen schön!\"",
+      "title": "Jagdlied, song for male chorus, op. 120, no. 1, \"Auf, ihr Herrn und Damen schon!\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 147
@@ -92727,7 +92727,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16934",
-      "title": "7 Haïkaï, for piano, 13 winds, 6 percussion, and 8 violins, I/45",
+      "title": "7 Haikai, for piano, 13 winds, 6 percussion, and 8 violins, I/45",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 150
@@ -92748,7 +92748,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16953",
-      "title": "Canteyodjayâ, I/30",
+      "title": "Canteyodjaya, I/30",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 150
@@ -92832,7 +92832,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16920",
-      "title": "Fête des belles eaux, for 6 ondes martenot, II/14",
+      "title": "Fete des belles eaux, for 6 ondes martenot, II/14",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 150
@@ -93035,7 +93035,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16935",
-      "title": "Turangalîla-symphonie, for piano, ondes martenot and orchestra, I/29",
+      "title": "Turangalila-symphonie, for piano, ondes martenot and orchestra, I/29",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 150
@@ -93063,7 +93063,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16912",
-      "title": "Verset pour la Fête de la Dedicace, I/44",
+      "title": "Verset pour la Fete de la Dedicace, I/44",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 150
@@ -93126,7 +93126,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5672",
-      "title": "Canciones Españolas, for string quartet",
+      "title": "Canciones Espanolas, for string quartet",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 64
@@ -93161,7 +93161,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5687",
-      "title": "Lundú, for 2 pianos",
+      "title": "Lundu, for 2 pianos",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 64
@@ -93364,7 +93364,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14445",
-      "title": "3 Poemes en prose de Lucille de Châteaubriand, songs for voice and piano, op. 10",
+      "title": "3 Poemes en prose de Lucille de Chateaubriand, songs for voice and piano, op. 10",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 121
@@ -93518,14 +93518,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14442",
-      "title": "Chansons de theâtre, song cycle for voice and piano, op. 151b",
+      "title": "Chansons de theatre, song cycle for voice and piano, op. 151b",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 121
     },
     {
       "id": "14358",
-      "title": "Chants Populaire Hebraïques, for voice and orchestra, op. 86",
+      "title": "Chants Populaire Hebraiques, for voice and orchestra, op. 86",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 121
@@ -93756,7 +93756,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14384",
-      "title": "Moïse, ballet symphonique for orchestra, op. 219",
+      "title": "Moise, ballet symphonique for orchestra, op. 219",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 121
@@ -93833,7 +93833,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14360",
-      "title": "Rêves, for voice and piano, op. 233",
+      "title": "Reves, for voice and piano, op. 233",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 121
@@ -94939,7 +94939,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3072",
-      "title": "Che dar più vi poss''io, SV99",
+      "title": "Che dar piu vi poss''io, SV99",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95058,7 +95058,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3285",
-      "title": "Così sol d''una chiara fonte viva",
+      "title": "Cosi sol d''una chiara fonte viva",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95100,7 +95100,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3084",
-      "title": "Deh! Bella E Cara E Sì Soave Un Tempo",
+      "title": "Deh! Bella E Cara E Si Soave Un Tempo",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95275,7 +95275,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3227",
-      "title": "E così a poc'' a poco, SV105",
+      "title": "E cosi a poc'' a poco, SV105",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95492,7 +95492,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3088",
-      "title": "Io ardo, sì ma''l fuoco di tal sorte, for 2 sopranos and bass, SV309",
+      "title": "Io ardo, si ma''l fuoco di tal sorte, for 2 sopranos and bass, SV309",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95786,7 +95786,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3270",
-      "title": "M''e più dolce il penar, SV100",
+      "title": "M''e piu dolce il penar, SV100",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95842,7 +95842,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3336",
-      "title": "Ma Tu, Più Che Mai Dura",
+      "title": "Ma Tu, Piu Che Mai Dura",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -95989,7 +95989,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3235",
-      "title": "Non più guerra pietate, SV88",
+      "title": "Non piu guerra pietate, SV88",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -96003,7 +96003,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3303",
-      "title": "Non sono in queste rive fiori così vermigli, SV45",
+      "title": "Non sono in queste rive fiori cosi vermigli, SV45",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -96059,7 +96059,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3053",
-      "title": "Occhi miei, se mirar, più non debb''io, for 2 sopranos and bass, SV314",
+      "title": "Occhi miei, se mirar, piu non debb''io, for 2 sopranos and bass, SV314",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -96178,7 +96178,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3042",
-      "title": "O Primavera, gioventù de l''anno, madrigal for 5 voices, SV 68",
+      "title": "O Primavera, gioventu de l''anno, madrigal for 5 voices, SV 68",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -96318,14 +96318,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3123",
-      "title": "Più lieto il guardo",
+      "title": "Piu lieto il guardo",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
     },
     {
       "id": "3166",
-      "title": "Più lieto il guardo, aria for soprano, SV321",
+      "title": "Piu lieto il guardo, aria for soprano, SV321",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -96402,7 +96402,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3023",
-      "title": "Questa ordì il laccio, SV35",
+      "title": "Questa ordi il laccio, SV35",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -96724,21 +96724,21 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3249",
-      "title": "Sì, sì, ch''io v''amo",
+      "title": "Si, si, ch''io v''amo",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
     },
     {
       "id": "3191",
-      "title": "Sì ch''io vorrei morire, SV89",
+      "title": "Si ch''io vorrei morire, SV89",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
     },
     {
       "id": "3333",
-      "title": "Sì dolc''e il tormento",
+      "title": "Si dolc''e il tormento",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 39
@@ -97004,7 +97004,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23497",
-      "title": "Così fan tutte, K.588",
+      "title": "Cosi fan tutte, K.588",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 196
@@ -97802,7 +97802,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23144",
-      "title": "Così dunque tradisci, K.432",
+      "title": "Cosi dunque tradisci, K.432",
       "subtitle": "Recitative and aria for bass and orchestra",
       "genre": "Vocal",
       "composer_id": 196
@@ -99048,7 +99048,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23277",
-      "title": "Nehmt meinen Dank, ihr holden Gönner!, K.383",
+      "title": "Nehmt meinen Dank, ihr holden Gonner!, K.383",
       "subtitle": "Aria for soprano and orchestra",
       "genre": "Vocal",
       "composer_id": 196
@@ -99069,7 +99069,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23405",
-      "title": "Non più. Tutto zascoltai. Non temer, amato bene, K.490",
+      "title": "Non piu. Tutto zascoltai. Non temer, amato bene, K.490",
       "subtitle": "Scena and rondo for soprano, tenor and orchestra",
       "genre": "Vocal",
       "composer_id": 196
@@ -99545,7 +99545,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "23691",
-      "title": "Piú non si trovano, K.549",
+      "title": "Piu non si trovano, K.549",
       "subtitle": "Canzonetta for two sopranos and bass",
       "genre": "Vocal",
       "composer_id": 196
@@ -100987,7 +100987,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20389",
-      "title": "Gde tï, zvezdochka? ",
+      "title": "Gde ti, zvezdochka? ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 181
@@ -101099,14 +101099,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20384",
-      "title": "Kolïbel''naya Eryomushki ",
+      "title": "Kolibel''naya Eryomushki ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 181
     },
     {
       "id": "20409",
-      "title": "Kolïbel''naya pesnya ",
+      "title": "Kolibel''naya pesnya ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 181
@@ -101169,7 +101169,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20396",
-      "title": "Rêverie ",
+      "title": "Reverie ",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 181
@@ -101232,14 +101232,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20415",
-      "title": "Sorochintsï Fair ",
+      "title": "Sorochintsi Fair ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 181
     },
     {
       "id": "20434",
-      "title": "Sorochintsï Fair: Dream of the Peasant Gritsko, for chorus and orchestra",
+      "title": "Sorochintsi Fair: Dream of the Peasant Gritsko, for chorus and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 181
@@ -101484,7 +101484,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4532",
-      "title": "29 små praeludier, for organ, FS136, op. 51",
+      "title": "29 sma praeludier, for organ, FS136, op. 51",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 52
@@ -101554,7 +101554,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4460",
-      "title": "Drømmen om Glade Jul, FS34",
+      "title": "Drommen om Glade Jul, FS34",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 52
@@ -101624,7 +101624,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4535",
-      "title": "Förunderligt och markligt, for chorus",
+      "title": "Forunderligt och markligt, for chorus",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 52
@@ -101666,7 +101666,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4478",
-      "title": "Jeg ved en Lærkerede, FS114, no. 1",
+      "title": "Jeg ved en Larkerede, FS114, no. 1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 52
@@ -101820,7 +101820,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4457",
-      "title": "Solen er saa rød, mor, FS114 no. 2",
+      "title": "Solen er saa rod, mor, FS114 no. 2",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 52
@@ -101897,7 +101897,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4490",
-      "title": "Søvnen, for chorus and orchestra, FS33, op. 18",
+      "title": "Sovnen, for chorus and orchestra, FS33, op. 18",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 52
@@ -101925,7 +101925,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4477",
-      "title": "Tågen Letter, for flute and harp",
+      "title": "Tagen Letter, for flute and harp",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 52
@@ -101988,7 +101988,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13793",
-      "title": "''Hay que caminar'' soñando, for 2 violins",
+      "title": "''Hay que caminar'' sonando, for 2 violins",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 111
@@ -102072,7 +102072,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13808",
-      "title": "Omaggio a György Kurtag, for contralto, flute, clarinet, tuba and live electronics",
+      "title": "Omaggio a Gyorgy Kurtag, for contralto, flute, clarinet, tuba and live electronics",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 111
@@ -102716,7 +102716,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15346",
-      "title": "L''île de Tulipatan ",
+      "title": "L''ile de Tulipatan ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 134
@@ -102821,7 +102821,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15403",
-      "title": "Le Château à Toto ",
+      "title": "Le Chateau à Toto ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 134
@@ -102926,7 +102926,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15379",
-      "title": "Les deux pêcheurs ",
+      "title": "Les deux pecheurs ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 134
@@ -102996,7 +102996,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15402",
-      "title": "Maître Peronilla ",
+      "title": "Maitre Peronilla ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 134
@@ -103052,7 +103052,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15336",
-      "title": "Rêverie au bord de la mer, for cello and piano",
+      "title": "Reverie au bord de la mer, for cello and piano",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 134
@@ -103556,14 +103556,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14057",
-      "title": "Der Herr is König, darum toben die Völker, motet for double chorus, T.351",
+      "title": "Der Herr is Konig, darum toben die Volker, motet for double chorus, T.351",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 115
     },
     {
       "id": "14089",
-      "title": "Der Herr is König und herrlich geschmuckt, motet for double chorus and continuo, T.352",
+      "title": "Der Herr is Konig und herrlich geschmuckt, motet for double chorus and continuo, T.352",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 115
@@ -104102,7 +104102,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14038",
-      "title": "Komm Gott Schöpfer, heiliger Geist, T.50",
+      "title": "Komm Gott Schopfer, heiliger Geist, T.50",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 115
@@ -104263,7 +104263,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "14043",
-      "title": "Musicalische Ergötzungm, for 2 scordatura violins and continuo",
+      "title": "Musicalische Ergotzungm, for 2 scordatura violins and continuo",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 115
@@ -104578,14 +104578,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13993",
-      "title": "Wenn wir in höchsten Nöten sein, T.69",
+      "title": "Wenn wir in hochsten Noten sein, T.69",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 115
     },
     {
       "id": "14069",
-      "title": "Wenn wir in höchsten Nöten sein, T.70",
+      "title": "Wenn wir in hochsten Noten sein, T.70",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 115
@@ -105236,7 +105236,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "130",
-      "title": "In cuor più non mi sento in A major, for 2 violins and bass, MS117",
+      "title": "In cuor piu non mi sento in A major, for 2 violins and bass, MS117",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 3
@@ -105257,14 +105257,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "177",
-      "title": "Introduction and Variations on ''Nel cor più non mi sento'' from Paisiello''s ''La molinara,'' Op.38, MS44",
+      "title": "Introduction and Variations on ''Nel cor piu non mi sento'' from Paisiello''s ''La molinara,'' Op.38, MS44",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 3
     },
     {
       "id": "179",
-      "title": "Introduction and Variations on ''Non più mesta'' from Rossini''s ''La cenerentola'' in E flat major, op. 12; MS22",
+      "title": "Introduction and Variations on ''Non piu mesta'' from Rossini''s ''La cenerentola'' in E flat major, op. 12; MS22",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 3
@@ -105964,7 +105964,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26607",
-      "title": "Chiara, sì chiaro e de''vostr''occhi il sole",
+      "title": "Chiara, si chiaro e de''vostr''occhi il sole",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 214
@@ -106027,7 +106027,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26533",
-      "title": "Così le chiome",
+      "title": "Cosi le chiome",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 214
@@ -106405,7 +106405,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26581",
-      "title": "La ver l''aurora che sì dolce l''aura",
+      "title": "La ver l''aurora che si dolce l''aura",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 214
@@ -106685,7 +106685,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26649",
-      "title": "Nessun visse giamai più di me lieto",
+      "title": "Nessun visse giamai piu di me lieto",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 214
@@ -108771,7 +108771,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3367",
-      "title": "Años de Soledad, tango for chamber ensemble",
+      "title": "Anos de Soledad, tango for chamber ensemble",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 40
@@ -108946,7 +108946,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3463",
-      "title": "Cuatro estaciones porteñas, tango cycle for chamber ensemble",
+      "title": "Cuatro estaciones portenas, tango cycle for chamber ensemble",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 40
@@ -109121,7 +109121,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3410",
-      "title": "La última grela, tango song",
+      "title": "La ultima grela, tango song",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 40
@@ -109289,7 +109289,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3384",
-      "title": "Pequeña cancion para Matilde, tango song",
+      "title": "Pequena cancion para Matilde, tango song",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 40
@@ -109317,7 +109317,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3403",
-      "title": "Preludio para el año 3001, tango song",
+      "title": "Preludio para el ano 3001, tango song",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 40
@@ -109520,7 +109520,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3376",
-      "title": "Tres movimientos tanguisticos porteños",
+      "title": "Tres movimientos tanguisticos portenos",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 40
@@ -109604,7 +109604,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25047",
-      "title": "Concert champêtre, for harpsichord and orchestra, FP49",
+      "title": "Concert champetre, for harpsichord and orchestra, FP49",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 202
@@ -110017,7 +110017,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25052",
-      "title": "Dernier poeme, FP163, \"J''ai rêve tellement fort de toi\"",
+      "title": "Dernier poeme, FP163, \"J''ai reve tellement fort de toi\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 202
@@ -110150,7 +110150,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "24990",
-      "title": "L''invitation au château, FP138",
+      "title": "L''invitation au chateau, FP138",
       "subtitle": "Incidental music",
       "genre": "Stage",
       "composer_id": 202
@@ -110171,7 +110171,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25117",
-      "title": "La fraîcheur et le feu FP147",
+      "title": "La fraicheur et le feu FP147",
       "subtitle": "Song cycle",
       "genre": "Vocal",
       "composer_id": 202
@@ -110339,7 +110339,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25085",
-      "title": "Miroirs brûlants, FP98",
+      "title": "Miroirs brulants, FP98",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 202
@@ -110731,7 +110731,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "25049",
-      "title": "Épitaphe, FP55, \"Belle âme qui fus mon flambeau\"",
+      "title": "Épitaphe, FP55, \"Belle ame qui fus mon flambeau\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 202
@@ -111221,7 +111221,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7322",
-      "title": "Ein Kindelein so löbelich",
+      "title": "Ein Kindelein so lobelich",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 78
@@ -111333,7 +111333,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7473",
-      "title": "Geborn ist Gottes Söhnelein, hymn ",
+      "title": "Geborn ist Gottes Sohnelein, hymn ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 78
@@ -111956,7 +111956,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7449",
-      "title": "Wie schön leuchtet der Morgenstern ",
+      "title": "Wie schon leuchtet der Morgenstern ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 78
@@ -113167,7 +113167,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16485",
-      "title": "Mentì all''avviso",
+      "title": "Menti all''avviso",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 146
@@ -115911,7 +115911,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22094",
-      "title": "Schubert: Wohin? from Die Schöne Mullerin, TN iii/10",
+      "title": "Schubert: Wohin? from Die Schone Mullerin, TN iii/10",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 188
@@ -116247,7 +116247,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20224",
-      "title": "La naissance d’Osiris, ou La fête Pamilie ",
+      "title": "La naissance d’Osiris, ou La fete Pamilie ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
@@ -116282,28 +116282,28 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20187",
-      "title": "Les fêtes de l’Hymen et de l’Amour, ou Les dieux d’Egypte ",
+      "title": "Les fetes de l’Hymen et de l’Amour, ou Les dieux d’Egypte ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
     },
     {
       "id": "20188",
-      "title": "Les fêtes de Polymnie ",
+      "title": "Les fetes de Polymnie ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
     },
     {
       "id": "20181",
-      "title": "Les fêtes de Ramire ",
+      "title": "Les fetes de Ramire ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
     },
     {
       "id": "20190",
-      "title": "Les fêtes d’Hebe, ou Les talents lyriques ",
+      "title": "Les fetes d’Hebe, ou Les talents lyriques ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
@@ -116373,14 +116373,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20233",
-      "title": "Naïs ",
+      "title": "Nais ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
     },
     {
       "id": "20195",
-      "title": "Naïs ",
+      "title": "Nais ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 178
@@ -116485,7 +116485,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20221",
-      "title": "Zaïs ",
+      "title": "Zais ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 178
@@ -116933,14 +116933,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "12516",
-      "title": "I min alsklings tradgård, for SSAA chorus",
+      "title": "I min alsklings tradgard, for SSAA chorus",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 100
     },
     {
       "id": "12502",
-      "title": "I min alsklings tradgård, song cycle for voice and piano",
+      "title": "I min alsklings tradgard, song cycle for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 100
@@ -117059,7 +117059,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "12573",
-      "title": "Lahtö ",
+      "title": "Lahto ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 100
@@ -117318,7 +117318,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "12508",
-      "title": "Runo 42 ''Sammon ryöstö'', choral  for male choir, soloists and tape",
+      "title": "Runo 42 ''Sammon ryosto'', choral  for male choir, soloists and tape",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 100
@@ -117612,14 +117612,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5068",
-      "title": "2 Melodies hebraïques",
+      "title": "2 Melodies hebraiques",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 57
     },
     {
       "id": "5109",
-      "title": "2 melodies hebraïques",
+      "title": "2 melodies hebraiques",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 57
@@ -117920,14 +117920,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5055",
-      "title": "Ronsard à son âme",
+      "title": "Ronsard à son ame",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 57
     },
     {
       "id": "5099",
-      "title": "Rêves",
+      "title": "Reves",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 57
@@ -118641,7 +118641,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "6658",
-      "title": "Ehre, sei Gott in der Höhe, song for voice and organ",
+      "title": "Ehre, sei Gott in der Hohe, song for voice and organ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 72
@@ -119929,7 +119929,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19881",
-      "title": "Semirâma, tragic, P. 94",
+      "title": "Semirama, tragic, P. 94",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 173
@@ -121287,7 +121287,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26808",
-      "title": "2 Danzas españolas",
+      "title": "2 Danzas espanolas",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 215
@@ -121315,7 +121315,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26768",
-      "title": "3 Danzas de España",
+      "title": "3 Danzas de Espana",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
@@ -121329,7 +121329,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26837",
-      "title": "3 Piezas españolas",
+      "title": "3 Piezas espanolas",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 215
@@ -121490,14 +121490,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26746",
-      "title": "Cancion del cúcú, song for voice and piano",
+      "title": "Cancion del cucu, song for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 215
     },
     {
       "id": "26825",
-      "title": "Canciones españolas, for voice and guitar",
+      "title": "Canciones espanolas, for voice and guitar",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 215
@@ -121637,7 +121637,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26803",
-      "title": "El album de Cecilia, \"6 piezas para manos pequeñas\"",
+      "title": "El album de Cecilia, \"6 piezas para manos pequenas\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
@@ -121735,14 +121735,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26813",
-      "title": "Música para un codice salmantino, cantata for bass, chorus and orchestra",
+      "title": "Musica para un codice salmantino, cantata for bass, chorus and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 215
     },
     {
       "id": "26791",
-      "title": "Música para un jardin",
+      "title": "Musica para un jardin",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 215
@@ -121770,7 +121770,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26789",
-      "title": "Pequeñas piezas",
+      "title": "Pequenas piezas",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 215
@@ -121791,21 +121791,21 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26817",
-      "title": "Por los campos de España",
+      "title": "Por los campos de Espana",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 215
     },
     {
       "id": "26823",
-      "title": "Preludio al gallo mañanero",
+      "title": "Preludio al gallo mananero",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
     },
     {
       "id": "26822",
-      "title": "Preludio de añoranza",
+      "title": "Preludio de anoranza",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
@@ -121847,7 +121847,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26826",
-      "title": "Romance del Comendador de Ocaña, for soprano and orchestra ",
+      "title": "Romance del Comendador de Ocana, for soprano and orchestra ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 215
@@ -121875,7 +121875,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26795",
-      "title": "Serenata española",
+      "title": "Serenata espanola",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
@@ -121980,7 +121980,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26835",
-      "title": "À l''ombre de Torre Bermeja, \"Homenaje a Ricardo Viñes\"",
+      "title": "À l''ombre de Torre Bermeja, \"Homenaje a Ricardo Vines\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 215
@@ -123163,7 +123163,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5414",
-      "title": "L''âme delaissee ",
+      "title": "L''ame delaissee ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 60
@@ -123394,7 +123394,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5378",
-      "title": "Moïse et Pharaon",
+      "title": "Moise et Pharaon",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 60
@@ -123541,7 +123541,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5440",
-      "title": "Peches de Vieillesse, Book 8: Album de château",
+      "title": "Peches de Vieillesse, Book 8: Album de chateau",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 60
@@ -123786,14 +123786,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5338",
-      "title": "Variazioni a più istrumenti obbligati",
+      "title": "Variazioni a piu istrumenti obbligati",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 60
     },
     {
       "id": "5310",
-      "title": "Variazioni a più istrumenti obbligati in F major, for 2 violins, viola, cello and clarinet, QR ix/1",
+      "title": "Variazioni a piu istrumenti obbligati in F major, for 2 violins, viola, cello and clarinet, QR ix/1",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 60
@@ -123961,7 +123961,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15879",
-      "title": "Fanfare pour un sacre païen, for 4 trumpets and 3 drums ",
+      "title": "Fanfare pour un sacre paien, for 4 trumpets and 3 drums ",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 140
@@ -123982,7 +123982,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15885",
-      "title": "Joueurs de flûte, for flute and piano, op. 27",
+      "title": "Joueurs de flute, for flute and piano, op. 27",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 140
@@ -124080,7 +124080,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15908",
-      "title": "Pour une Fête de printemps, symphonic poem, op. 22",
+      "title": "Pour une Fete de printemps, symphonic poem, op. 22",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 140
@@ -124115,7 +124115,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15888",
-      "title": "Symphony no. 1 in D minor, op. 7, \"Le poeme de la forêt\"",
+      "title": "Symphony no. 1 in D minor, op. 7, \"Le poeme de la foret\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 140
@@ -124829,7 +124829,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3871",
-      "title": "Marche heroïque in E flat major, op. 34",
+      "title": "Marche heroique in E flat major, op. 34",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 45
@@ -125256,7 +125256,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "3855",
-      "title": "Une flûte invisible, song for voice, flute, and piano",
+      "title": "Une flute invisible, song for voice, flute, and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 45
@@ -125494,7 +125494,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16045",
-      "title": "Gesù al limbo, oratorio for soloist, chorus and orchestra",
+      "title": "Gesu al limbo, oratorio for soloist, chorus and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 143
@@ -125592,7 +125592,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15997",
-      "title": "La Passione di Gesù Cristo, oratorio for chorus and orchestra",
+      "title": "La Passione di Gesu Cristo, oratorio for chorus and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 143
@@ -125627,7 +125627,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "16020",
-      "title": "Les Danaïdes",
+      "title": "Les Danaides",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 143
@@ -125795,7 +125795,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13142",
-      "title": "2 Rêveries nocturnes",
+      "title": "2 Reveries nocturnes",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 104
@@ -125977,7 +125977,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13110",
-      "title": "Cinema: Entr''acte symphonique de Relâche",
+      "title": "Cinema: Entr''acte symphonique de Relache",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 104
@@ -126320,14 +126320,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13179",
-      "title": "Relâche ",
+      "title": "Relache ",
       "subtitle": "Ballet",
       "genre": "Stage",
       "composer_id": 104
     },
     {
       "id": "13111",
-      "title": "Rêverie du pauvre",
+      "title": "Reverie du pauvre",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 104
@@ -126446,7 +126446,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "13138",
-      "title": "Verset laïque et somptueux",
+      "title": "Verset laique et somptueux",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 104
@@ -131045,7 +131045,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5850",
-      "title": "Lascia più di tormentarmi amor tiranno, chamber cantata for soprano and continuo",
+      "title": "Lascia piu di tormentarmi amor tiranno, chamber cantata for soprano and continuo",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 65
@@ -131150,7 +131150,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5837",
-      "title": "Non so qual più m''ingombra, chamber cantata for soprano, 2 violins and continuo, \"Cantata Pastorale\"",
+      "title": "Non so qual piu m''ingombra, chamber cantata for soprano, 2 violins and continuo, \"Cantata Pastorale\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 65
@@ -133565,7 +133565,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "5634",
-      "title": "Komm, Gott Schöpfer, heiliger Geist ",
+      "title": "Komm, Gott Schopfer, heiliger Geist ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 62
@@ -133859,14 +133859,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20739",
-      "title": "Die schöne Mullerin, D.795, op. 25",
+      "title": "Die schone Mullerin, D.795, op. 25",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "21086",
-      "title": "Erlkönig, D.328, op. 1",
+      "title": "Erlkonig, D.328, op. 1",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134510,7 +134510,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21252",
-      "title": "Abendlied der Furstin, D.495, \"Der Abend rötet nun das Tal\"",
+      "title": "Abendlied der Furstin, D.495, \"Der Abend rotet nun das Tal\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134545,7 +134545,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20557",
-      "title": "Abendröte, D.690",
+      "title": "Abendrote, D.690",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134720,7 +134720,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21067",
-      "title": "Als ich sie erröten sah, D.153",
+      "title": "Als ich sie erroten sah, D.153",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134734,7 +134734,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21060",
-      "title": "Amalia, D.195, op. posth.173, no. 1, \"Schön wie Engel voll Walhalla''s Wonne\"",
+      "title": "Amalia, D.195, op. posth.173, no. 1, \"Schon wie Engel voll Walhalla''s Wonne\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134748,7 +134748,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21251",
-      "title": "Am ersten Maimorgen, D.344, \"Heute will ich fröhlich...\"",
+      "title": "Am ersten Maimorgen, D.344, \"Heute will ich frohlich...\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134846,28 +134846,28 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20562",
-      "title": "An den Fruhling, D.587, \"Willkommen, schöner Jungling!\"",
+      "title": "An den Fruhling, D.587, \"Willkommen, schoner Jungling!\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "21121",
-      "title": "An den Fruhling, partsong for male voices, D.338, \"Willkommen, schöner Jungling!\"",
+      "title": "An den Fruhling, partsong for male voices, D.338, \"Willkommen, schoner Jungling!\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "21309",
-      "title": "An den Fruhling I, D.245, \"Willkommen, schöner Jungling!\"",
+      "title": "An den Fruhling I, D.245, \"Willkommen, schoner Jungling!\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "20924",
-      "title": "An den Fruhling II, D.283, op. posth.172, no. 5, \"Willkommen, schöner Jungling!\"",
+      "title": "An den Fruhling II, D.283, op. posth.172, no. 5, \"Willkommen, schoner Jungling!\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -134972,7 +134972,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20740",
-      "title": "An die Freude, D.189, op.  posth.111, no. 1, \"Freude, schöner Götterfunken\"",
+      "title": "An die Freude, D.189, op.  posth.111, no. 1, \"Freude, schoner Gotterfunken\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -135217,7 +135217,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20630",
-      "title": "Auflösung, D.807",
+      "title": "Auflosung, D.807",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -135462,7 +135462,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21172",
-      "title": "Das gestörte Gluck, D.309",
+      "title": "Das gestorte Gluck, D.309",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -135602,7 +135602,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21267",
-      "title": "Das Zugenglöcklein, D.871",
+      "title": "Das Zugenglocklein, D.871",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -135742,7 +135742,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20541",
-      "title": "Der Gott und die Bajadere. Indische Legende, D.254, \"Mahadöh, der Herr der Erde\"",
+      "title": "Der Gott und die Bajadere. Indische Legende, D.254, \"Mahadoh, der Herr der Erde\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -135868,7 +135868,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20775",
-      "title": "Der König in Thule, D.367, op. 5, no. 5",
+      "title": "Der Konig in Thule, D.367, op. 5, no. 5",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136036,7 +136036,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20912",
-      "title": "Der Tod Oskar''s, D.375, \"Warum öffnest du wieder\"",
+      "title": "Der Tod Oskar''s, D.375, \"Warum offnest du wieder\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136071,7 +136071,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20818",
-      "title": "Der Vatermörder, D.10",
+      "title": "Der Vatermorder, D.10",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136365,7 +136365,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20812",
-      "title": "Die Fröhlichkeit, D.262",
+      "title": "Die Frohlichkeit, D.262",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136407,7 +136407,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20934",
-      "title": "Die Götter Griechenlands, D.677",
+      "title": "Die Gotter Griechenlands, D.677",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136470,7 +136470,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21196",
-      "title": "Die Liebesgötter, D.446",
+      "title": "Die Liebesgotter, D.446",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136659,7 +136659,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21034",
-      "title": "Die Vögel, D.691, op. posth.172, no. 6",
+      "title": "Die Vogel, D.691, op. posth.172, no. 6",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -136883,7 +136883,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20595",
-      "title": "Ewige Liebe, D.825a, op. 64, no. 2, \"Ertönet, ihr Saiten\"",
+      "title": "Ewige Liebe, D.825a, op. 64, no. 2, \"Ertonet, ihr Saiten\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -137037,14 +137037,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20916",
-      "title": "Fruhlingslied I, D.914, \"Geöffnet sind des Winters Riegel\"",
+      "title": "Fruhlingslied I, D.914, \"Geoffnet sind des Winters Riegel\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "21413",
-      "title": "Fruhlingslied II, D.919, \"Geöffnet sind des Winters Riegel\"",
+      "title": "Fruhlingslied II, D.919, \"Geoffnet sind des Winters Riegel\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -137240,7 +137240,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20970",
-      "title": "Gott der Weltschöpfer, D.986, op. 112, no. 2",
+      "title": "Gott der Weltschopfer, D.986, op. 112, no. 2",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -137338,7 +137338,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21322",
-      "title": "Heidenröslein, D.257, op. 3, no. 3",
+      "title": "Heidenroslein, D.257, op. 3, no. 3",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -137373,7 +137373,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21425",
-      "title": "Hermann und Thusnelda, D.322, \"Ha, dort kömmt er\"",
+      "title": "Hermann und Thusnelda, D.322, \"Ha, dort kommt er\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -137863,7 +137863,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20868",
-      "title": "Lied des Orpheus, als er in die Hölle ging, D.474",
+      "title": "Lied des Orpheus, als er in die Holle ging, D.474",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -137912,14 +137912,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20850",
-      "title": "Lied im Freien, D.572, \"Wie schön ist''s im Freien\"",
+      "title": "Lied im Freien, D.572, \"Wie schon ist''s im Freien\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "20633",
-      "title": "Lilla an die Morgenröte, D.273, \"Wie schön bist du\"",
+      "title": "Lilla an die Morgenrote, D.273, \"Wie schon bist du\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -138255,7 +138255,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20611",
-      "title": "Nachtmusik, chorus for unaccompanied male voices, D.848, \"Wir stimmen dir mit Flötensang\"",
+      "title": "Nachtmusik, chorus for unaccompanied male voices, D.848, \"Wir stimmen dir mit Flotensang\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -138724,7 +138724,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20689",
-      "title": "Romanze des Richard Löwenherz, D.907",
+      "title": "Romanze des Richard Lowenherz, D.907",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -138773,7 +138773,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20767",
-      "title": "Ruhe, schönstes Gluck der Erde, D.657",
+      "title": "Ruhe, schonstes Gluck der Erde, D.657",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139095,7 +139095,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21417",
-      "title": "Stimme der Liebe I, D.187, \"Abendgewölke schweben hell\"",
+      "title": "Stimme der Liebe I, D.187, \"Abendgewolke schweben hell\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139200,7 +139200,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21260",
-      "title": "Standchen, D.920, op. posth.135, \"Zögernd, leise\"",
+      "title": "Standchen, D.920, op. posth.135, \"Zogernd, leise\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139445,7 +139445,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20964",
-      "title": "Trost, D.671, \"Hörnerklange rufen klangend\"",
+      "title": "Trost, D.671, \"Hornerklange rufen klangend\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139641,7 +139641,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20898",
-      "title": "Voruber die stöhnende Klage, trio for male voices, D.53",
+      "title": "Voruber die stohnende Klage, trio for male voices, D.53",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139718,7 +139718,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21056",
-      "title": "Wer kauft Liebesgötter?, D.261",
+      "title": "Wer kauft Liebesgotter?, D.261",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -139851,14 +139851,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21154",
-      "title": "Zur Namensfeier des Herrn Andreas Siller, for voice, violin and harp, D.83, \"Des Phöbus Strahlen\"",
+      "title": "Zur Namensfeier des Herrn Andreas Siller, for voice, violin and harp, D.83, \"Des Phobus Strahlen\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
     },
     {
       "id": "21080",
-      "title": "Zur Namensfeier meines Vaters, cantata for male voices and guitar, D.80, \"Ertöne Leier\"",
+      "title": "Zur Namensfeier meines Vaters, cantata for male voices and guitar, D.80, \"Ertone Leier\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 183
@@ -140320,7 +140320,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15005",
-      "title": "Der Königssohn, op. 116",
+      "title": "Der Konigssohn, op. 116",
       "subtitle": "Song for soloists, choir and orchestra",
       "genre": "Vocal",
       "composer_id": 129
@@ -140341,7 +140341,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15126",
-      "title": "Doppelchörige Gesange, op. 141",
+      "title": "Doppelchorige Gesange, op. 141",
       "subtitle": "Songs for choir",
       "genre": "Vocal",
       "composer_id": 129
@@ -140467,7 +140467,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15071",
-      "title": "Gedichte der Königin Maria Stuart, op. 135",
+      "title": "Gedichte der Konigin Maria Stuart, op. 135",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 129
@@ -141006,7 +141006,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15015",
-      "title": "Schön Hedwig, op. 106",
+      "title": "Schon Hedwig, op. 106",
       "subtitle": "Declamation with piano",
       "genre": "Vocal",
       "composer_id": 129
@@ -141167,7 +141167,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15148",
-      "title": "Vom Pagen und der Königstochter, op. 140",
+      "title": "Vom Pagen und der Konigstochter, op. 140",
       "subtitle": "Songs for soloists, choir and orchestra",
       "genre": "Vocal",
       "composer_id": 129
@@ -141293,7 +141293,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22587",
-      "title": "Die sieben Wortte unsers lieben Erlösers und Seeligmachers Jesu Christi, for soloists, 5 instruments and continuo, SWV478",
+      "title": "Die sieben Wortte unsers lieben Erlosers und Seeligmachers Jesu Christi, for soloists, 5 instruments and continuo, SWV478",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 191
@@ -141349,7 +141349,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22533",
-      "title": "Herr, mein Gebet erhör in Gnad, for chorus and continuo, SWV 248",
+      "title": "Herr, mein Gebet erhor in Gnad, for chorus and continuo, SWV 248",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 191
@@ -141391,7 +141391,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22538",
-      "title": "Hör mein Gebet und lass zu dir, for chorus and continuo, SWV 200",
+      "title": "Hor mein Gebet und lass zu dir, for chorus and continuo, SWV 200",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 191
@@ -141440,7 +141440,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "22580",
-      "title": "Königs und Propheten Davids hundert und neunzehender Psalm, for double chorus and continuo, SWV 482-500",
+      "title": "Konigs und Propheten Davids hundert und neunzehender Psalm, for double chorus and continuo, SWV 482-500",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 191
@@ -141993,7 +141993,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1550",
-      "title": "Piano Sonata no. 3 in F sharp minor, op. 23, \"Etats d''âme\"",
+      "title": "Piano Sonata no. 3 in F sharp minor, op. 23, \"Etats d''ame\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 18
@@ -142105,7 +142105,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1612",
-      "title": "Rêverie in E major, op. 24",
+      "title": "Reverie in E major, op. 24",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 18
@@ -143960,7 +143960,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21810",
-      "title": "Allegretto in A major, JS.17 and Più lento in F major, JS.149, for string quartet",
+      "title": "Allegretto in A major, JS.17 and Piu lento in F major, JS.149, for string quartet",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 186
@@ -144555,7 +144555,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21708",
-      "title": "Hymn to Thaïs, the Unforgettable",
+      "title": "Hymn to Thais, the Unforgettable",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 186
@@ -144828,7 +144828,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21735",
-      "title": "March of the Björneborgers ",
+      "title": "March of the Bjorneborgers ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 186
@@ -145192,7 +145192,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21734",
-      "title": "Più lento: Tempo di valse in E flat major, JS 150",
+      "title": "Piu lento: Tempo di valse in E flat major, JS 150",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 186
@@ -145423,7 +145423,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21879",
-      "title": "Snöfrid, improvisation for reciter, male voices, and orchestra, op. 29",
+      "title": "Snofrid, improvisation for reciter, male voices, and orchestra, op. 29",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 186
@@ -145563,7 +145563,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21673",
-      "title": "Suite champêtre, op. 98b",
+      "title": "Suite champetre, op. 98b",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 186
@@ -145969,7 +145969,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "21684",
-      "title": "Vainö''s Song, cantata for chorus and orchestra, op. 110",
+      "title": "Vaino''s Song, cantata for chorus and orchestra, op. 110",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 186
@@ -146305,14 +146305,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26274",
-      "title": "Prazský karneval, introduction and polonaise, JB 1:126",
+      "title": "Prazsky karneval, introduction and polonaise, JB 1:126",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 211
     },
     {
       "id": "26310",
-      "title": "Rêves, 6 characteristic pieces, JB 1:103",
+      "title": "Reves, 6 characteristic pieces, JB 1:103",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 211
@@ -146326,14 +146326,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26304",
-      "title": "Souvenir de Bohême en forme de polkas, Book 1, JB 1:76, op. 12",
+      "title": "Souvenir de Boheme en forme de polkas, Book 1, JB 1:76, op. 12",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 211
     },
     {
       "id": "26278",
-      "title": "Souvenir de Bohême en forme de polkas, Book 2, JB 1:77, op. 13",
+      "title": "Souvenir de Boheme en forme de polkas, Book 2, JB 1:77, op. 13",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 211
@@ -146396,7 +146396,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26365",
-      "title": "3 Pequeños Divertimento, op. 61",
+      "title": "3 Pequenos Divertimento, op. 61",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 212
@@ -147054,7 +147054,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "26367",
-      "title": "Variations on Paisiello''s ''Nel Cor Più Non Mi Sento'', op. 16",
+      "title": "Variations on Paisiello''s ''Nel Cor Piu Non Mi Sento'', op. 16",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 212
@@ -147383,7 +147383,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18940",
-      "title": "Glockenklange, song for voice and piano, WoO118, \"Sanft ertönen Morgenglokken\"",
+      "title": "Glockenklange, song for voice and piano, WoO118, \"Sanft ertonen Morgenglokken\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 166
@@ -147404,7 +147404,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19027",
-      "title": "Immerdar Liebe, song for voice and piano, WoO113, \"Kömmt mit dem Lenz auch die Lieb gegangen\"",
+      "title": "Immerdar Liebe, song for voice and piano, WoO113, \"Kommt mit dem Lenz auch die Lieb gegangen\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 166
@@ -147789,7 +147789,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18905",
-      "title": "Symphony no. 7 in C, op. 121, \"Irdisches und Göttliches im Menschenleben\"",
+      "title": "Symphony no. 7 in C, op. 121, \"Irdisches und Gottliches im Menschenleben\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 166
@@ -148433,7 +148433,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "316",
-      "title": "Sången, cantata for voice, chorus and orchestra, op. 44",
+      "title": "Sangen, cantata for voice, chorus and orchestra, op. 44",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -148538,7 +148538,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "330",
-      "title": "Flickan kom ifrån sin alskings möte, for voice and piano",
+      "title": "Flickan kom ifran sin alskings mote, for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -148580,7 +148580,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "299",
-      "title": "I Lönnens Skymning, song for voice and piano",
+      "title": "I Lonnens Skymning, song for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -148727,7 +148727,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "289",
-      "title": "Månsken for voice and piano",
+      "title": "Mansken for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -148783,7 +148783,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "267",
-      "title": "Snöfrid for soprano, mezzo-soprano, tenor, violin, chorus and orchestra, op. 5",
+      "title": "Snofrid for soprano, mezzo-soprano, tenor, violin, chorus and orchestra, op. 5",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -148937,14 +148937,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "309",
-      "title": "Swedish Songs, op. 16: no. 1, Låt oss dö unga ",
+      "title": "Swedish Songs, op. 16: no. 1, Lat oss do unga ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
     },
     {
       "id": "263",
-      "title": "Swedish Songs, op. 16: no. 2, Guld och gröna skogar ",
+      "title": "Swedish Songs, op. 16: no. 2, Guld och grona skogar ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -148986,7 +148986,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "325",
-      "title": "Thoughts of Solitude, op. 7: no. 2, I enslighet försvinna ",
+      "title": "Thoughts of Solitude, op. 7: no. 2, I enslighet forsvinna ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -149014,7 +149014,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "271",
-      "title": "Thoughts of Solitude, op. 7: no. 6, Du söker ryktbarhet ",
+      "title": "Thoughts of Solitude, op. 7: no. 6, Du soker ryktbarhet ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -149042,7 +149042,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "332",
-      "title": "Træt",
+      "title": "Trat",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 4
@@ -149329,7 +149329,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19709",
-      "title": "2 Mannerchöre, TrV194",
+      "title": "2 Mannerchore, TrV194",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 171
@@ -149343,7 +149343,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19745",
-      "title": "2 Songs, for alto or bass and orchestra, op. 44, TrV197, \"Grössere Gesange\"",
+      "title": "2 Songs, for alto or bass and orchestra, op. 44, TrV197, \"Grossere Gesange\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 171
@@ -149371,7 +149371,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19615",
-      "title": "3 Hymns of Friedrich Hölderlin, op. 71",
+      "title": "3 Hymns of Friedrich Holderlin, op. 71",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 171
@@ -149574,7 +149574,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19618",
-      "title": "Alphorn, song for voice, horn and piano, WoO29, TrV 64, \"Ein Alphorn hör'' ich schallen\"",
+      "title": "Alphorn, song for voice, horn and piano, WoO29, TrV 64, \"Ein Alphorn hor'' ich schallen\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 171
@@ -149784,7 +149784,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19743",
-      "title": "Die Göttin im Putzzimmer, for double chorus, WoO120, TrV267",
+      "title": "Die Gottin im Putzzimmer, for double chorus, WoO120, TrV267",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 171
@@ -149840,7 +149840,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19692",
-      "title": "Ein Röslein zog ich mir im Garten, WoO49, TrV67",
+      "title": "Ein Roslein zog ich mir im Garten, WoO49, TrV67",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 171
@@ -149854,7 +149854,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19600",
-      "title": "Fanfare zur Eröffnung der Musikwoche der Stadt Wien im September 1924, for brass and timpani, TrV250",
+      "title": "Fanfare zur Eroffnung der Musikwoche der Stadt Wien im September 1924, for brass and timpani, TrV250",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 171
@@ -150015,7 +150015,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19599",
-      "title": "Königsmarsch  in E flat major, WoO100, TrV217",
+      "title": "Konigsmarsch  in E flat major, WoO100, TrV217",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 171
@@ -150085,7 +150085,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19726",
-      "title": "Parade-Marsch no. 1 des Regiments Königs-Jager zu Pferde in E flat major, TrV213",
+      "title": "Parade-Marsch no. 1 des Regiments Konigs-Jager zu Pferde in E flat major, TrV213",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 171
@@ -150379,7 +150379,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18889",
-      "title": "An der schönen, blauen Donau, op. 314",
+      "title": "An der schonen, blauen Donau, op. 314",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -150470,7 +150470,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18700",
-      "title": "Aeols Töne, op. 68",
+      "title": "Aeols Tone, op. 68",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -150596,14 +150596,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18449",
-      "title": "Aschenbrödel-Quadrille ",
+      "title": "Aschenbrodel-Quadrille ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
     },
     {
       "id": "18404",
-      "title": "Aschenbrödel-Walzer ",
+      "title": "Aschenbrodel-Walzer ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -150708,7 +150708,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18585",
-      "title": "Bal champêtre, op. 303",
+      "title": "Bal champetre, op. 303",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -150778,7 +150778,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18418",
-      "title": "Bitte schön!, polka francaise, op. 372",
+      "title": "Bitte schon!, polka francaise, op. 372",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -150925,7 +150925,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18490",
-      "title": "Champêtre, polka-mazurka, op. 239",
+      "title": "Champetre, polka-mazurka, op. 239",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151016,7 +151016,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18355",
-      "title": "Das Spitzentuch der Königin ",
+      "title": "Das Spitzentuch der Konigin ",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 165
@@ -151149,7 +151149,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18834",
-      "title": "Die Göttin der Vernunft, op. 476",
+      "title": "Die Gottin der Vernunft, op. 476",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151408,7 +151408,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18863",
-      "title": "Erhöhte Pulse, op. 175",
+      "title": "Erhohte Pulse, op. 175",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151436,7 +151436,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18360",
-      "title": "Es war so wunderschön, op. 467",
+      "title": "Es war so wunderschon, op. 467",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151716,7 +151716,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18618",
-      "title": "Gavotte der Königin, op. 391",
+      "title": "Gavotte der Konigin, op. 391",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -151891,7 +151891,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18881",
-      "title": "Herzenskönigin, polka francaise, op. 445bis",
+      "title": "Herzenskonigin, polka francaise, op. 445bis",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -152346,14 +152346,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18634",
-      "title": "Krönungs-Marsch, op. 183",
+      "title": "Kronungs-Marsch, op. 183",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
     },
     {
       "id": "18741",
-      "title": "Krönungslieder, op. 184",
+      "title": "Kronungslieder, op. 184",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -152367,7 +152367,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18613",
-      "title": "Königslieder, op. 334",
+      "title": "Konigslieder, op. 334",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -152423,7 +152423,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18830",
-      "title": "Lava-Ströme,Op.74",
+      "title": "Lava-Strome,Op.74",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -152556,7 +152556,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18598",
-      "title": "Lockvögel, op. 118",
+      "title": "Lockvogel, op. 118",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -152661,7 +152661,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18647",
-      "title": "Mephistos Höllenrufe, op. 101",
+      "title": "Mephistos Hollenrufe, op. 101",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -153081,7 +153081,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18590",
-      "title": "Phönix-Schwingen ",
+      "title": "Phonix-Schwingen ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -153179,7 +153179,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18823",
-      "title": "Quadrille nach Motiven aus der Oper Die Königin von Leon, op. 4",
+      "title": "Quadrille nach Motiven aus der Oper Die Konigin von Leon, op. 4",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -153375,7 +153375,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18471",
-      "title": "Schnee-Glöckchen, op. 143",
+      "title": "Schnee-Glockchen, op. 143",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -153781,7 +153781,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18793",
-      "title": "Tête-à-Tête-Quadrille, op. 109",
+      "title": "Tete-à-Tete-Quadrille, op. 109",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -153893,14 +153893,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "18353",
-      "title": "Von der Börse, polka francaise, op. 337",
+      "title": "Von der Borse, polka francaise, op. 337",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
     },
     {
       "id": "18716",
-      "title": "Vöslauer, op. 100",
+      "title": "Voslauer, op. 100",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 165
@@ -155195,7 +155195,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "20501",
-      "title": "Allein Gott in der Höh sei Ehr, 4 chorale variations ",
+      "title": "Allein Gott in der Hoh sei Ehr, 4 chorale variations ",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 182
@@ -155762,7 +155762,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4226",
-      "title": "Lullaby, for violin and piano, op. 52, M58, \"La berceuse d''Aïtacho Enia\"",
+      "title": "Lullaby, for violin and piano, op. 52, M58, \"La berceuse d''Aitacho Enia\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 49
@@ -160480,7 +160480,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "7970",
-      "title": "Der aus der Löwengrube errettete Daniel, oratorio, for soloists, chorus and orchestra",
+      "title": "Der aus der Lowengrube errettete Daniel, oratorio, for soloists, chorus and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -160494,7 +160494,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8315",
-      "title": "Der Herr ist König, motet for chorus, TWV.8:6",
+      "title": "Der Herr ist Konig, motet for chorus, TWV.8:6",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -160564,7 +160564,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8057",
-      "title": "Die Ehre des herrlichen Schöpfers zu melden, sacred cantata for voice, violin and continuo, TWV.1:334",
+      "title": "Die Ehre des herrlichen Schopfers zu melden, sacred cantata for voice, violin and continuo, TWV.1:334",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -160634,7 +160634,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8240",
-      "title": "Du, o schönes Weltgebaude, sacred cantata for chorus, 2 flutes, 2 oboes, strings and continuo, TWV.1:394",
+      "title": "Du, o schones Weltgebaude, sacred cantata for chorus, 2 flutes, 2 oboes, strings and continuo, TWV.1:394",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -160823,7 +160823,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8471",
-      "title": "Flavius Bertaridus, König der Longobarden TWV.21:27",
+      "title": "Flavius Bertaridus, Konig der Longobarden TWV.21:27",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 83
@@ -161040,7 +161040,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8271",
-      "title": "Göttlichs Kind, laß mit Entzucken, for voice, oboe or trombone, violin and continuo, TWV.1:632a",
+      "title": "Gottlichs Kind, laß mit Entzucken, for voice, oboe or trombone, violin and continuo, TWV.1:632a",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -161166,7 +161166,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8230",
-      "title": "Ich weiss, dass mein Erlöser lebt, TWV.1:877",
+      "title": "Ich weiss, dass mein Erloser lebt, TWV.1:877",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -161201,7 +161201,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8118",
-      "title": "Ihr Völker hört, wie Gott aufs neue, sacred cantata for voice, flute and continuo, TWV.1:921",
+      "title": "Ihr Volker hort, wie Gott aufs neue, sacred cantata for voice, flute and continuo, TWV.1:921",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -161355,7 +161355,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8389",
-      "title": "Lad, o Herre, Ordets Sæd riigelig til os uddeeles, for voice, chorus, orchestra and continuo, TWV.deest",
+      "title": "Lad, o Herre, Ordets Sad riigelig til os uddeeles, for voice, chorus, orchestra and continuo, TWV.deest",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -161439,7 +161439,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8516",
-      "title": "Mein Schade ist verzweifelt böse, for 2-part chorus, oboe, strings and continuo, TWV.1:1133",
+      "title": "Mein Schade ist verzweifelt bose, for 2-part chorus, oboe, strings and continuo, TWV.1:1133",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -161481,7 +161481,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8508",
-      "title": "Musique heroïque, 12 marches for 2 instruments and continuo, TWV.50:31-42, \"Heldenmusik\"",
+      "title": "Musique heroique, 12 marches for 2 instruments and continuo, TWV.50:31-42, \"Heldenmusik\"",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 83
@@ -162986,7 +162986,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8084",
-      "title": "Symphonie auf die erste hundertjahrige der Hamburgischen löblichen Handlungs-Deputation, TWV.50:A1",
+      "title": "Symphonie auf die erste hundertjahrige der Hamburgischen loblichen Handlungs-Deputation, TWV.50:A1",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 83
@@ -163497,7 +163497,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8263",
-      "title": "Weiche Lust und Fröhlichkeit, for 2 solo voices, unison violins, solo viola and continuo, TWV.1:1536",
+      "title": "Weiche Lust und Frohlichkeit, for 2 solo voices, unison violins, solo viola and continuo, TWV.1:1536",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -163525,7 +163525,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8152",
-      "title": "Willkommen, schöner Freudentag, birthday serenata, for chorus, 2 oboes, strings and continuo, TWV.12:3",
+      "title": "Willkommen, schoner Freudentag, birthday serenata, for chorus, 2 oboes, strings and continuo, TWV.12:3",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -163553,7 +163553,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "8215",
-      "title": "Zerschmettert die Götzen, consecration cantata for chorus, flute, oboe, 2 trumpets, timpani, strings and continuo, TWV.2:7",
+      "title": "Zerschmettert die Gotzen, consecration cantata for chorus, flute, oboe, 2 trumpets, timpani, strings and continuo, TWV.2:7",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 83
@@ -165310,7 +165310,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2721",
-      "title": "Chi i bei dì m''adduce ancora",
+      "title": "Chi i bei di m''adduce ancora",
       "subtitle": "Song",
       "genre": "Vocal",
       "composer_id": 35
@@ -166563,7 +166563,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4873",
-      "title": "5 Prelúdios, A.419",
+      "title": "5 Preludios, A.419",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 55
@@ -166661,7 +166661,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4862",
-      "title": "Rudepoêma, A.184",
+      "title": "Rudepoema, A.184",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -166710,7 +166710,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4758",
-      "title": "5 Cancões de cordialidade, A.deest",
+      "title": "5 Cancoes de cordialidade, A.deest",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -166850,7 +166850,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4692",
-      "title": "A Prole do bebê, A.140, \"A familia do bebê\"",
+      "title": "A Prole do bebe, A.140, \"A familia do bebe\"",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -166871,7 +166871,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4713",
-      "title": "As três Marias, A.411",
+      "title": "As tres Marias, A.411",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -166976,7 +166976,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4857",
-      "title": "Caixinha de música quebrada, A.256",
+      "title": "Caixinha de musica quebrada, A.256",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -166990,28 +166990,28 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4770",
-      "title": "Cancão de cristal, A.494",
+      "title": "Cancao de cristal, A.494",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 55
     },
     {
       "id": "4871",
-      "title": "Cancão do Amor, for guitar and orchestra, W546",
+      "title": "Cancao do Amor, for guitar and orchestra, W546",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 55
     },
     {
       "id": "4754",
-      "title": "Cancão do poeta do seculo XVIII, A.486",
+      "title": "Cancao do poeta do seculo XVIII, A.486",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 55
     },
     {
       "id": "4826",
-      "title": "Cancões tipicas brasileiras, A.159",
+      "title": "Cancoes tipicas brasileiras, A.159",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 55
@@ -167263,7 +167263,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4793",
-      "title": "Erosão, A.495, \"Origem do Rio Amazonas\"",
+      "title": "Erosao, A.495, \"Origem do Rio Amazonas\"",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 55
@@ -167361,7 +167361,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4722",
-      "title": "Impressões Seresteiras",
+      "title": "Impressoes Seresteiras",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -167396,7 +167396,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4717",
-      "title": "Lembranco do sertão, A.252",
+      "title": "Lembranco do sertao, A.252",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -167438,14 +167438,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4724",
-      "title": "Modinhas e cancões, A.365",
+      "title": "Modinhas e cancoes, A.365",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 55
     },
     {
       "id": "4870",
-      "title": "Modinhas e cancões, A.441",
+      "title": "Modinhas e cancoes, A.441",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 55
@@ -167571,7 +167571,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4808",
-      "title": "Rudepoêma, A.310 ",
+      "title": "Rudepoema, A.310 ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 55
@@ -167606,7 +167606,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4820",
-      "title": "Simples coletânea, A.134",
+      "title": "Simples coletanea, A.134",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -167795,7 +167795,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4718",
-      "title": "Symphony no. 2, ''Ascensão'', A.132 ",
+      "title": "Symphony no. 2, ''Ascensao'', A.132 ",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 55
@@ -167858,7 +167858,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4816",
-      "title": "Teirú, song for voice and piano, A.223/2",
+      "title": "Teiru, song for voice and piano, A.223/2",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 55
@@ -167879,7 +167879,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4719",
-      "title": "Uirapurú, symphonic poem and ballet A.133, \"The Enchanted Bird\"",
+      "title": "Uirapuru, symphonic poem and ballet A.133, \"The Enchanted Bird\"",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 55
@@ -167907,7 +167907,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "4819",
-      "title": "Valsa romãntica, A.16",
+      "title": "Valsa romantica, A.16",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 55
@@ -170231,7 +170231,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "11889",
-      "title": "La virtù trionfante, dell''amore, e dell''odio, overo Il tigrane, RV.740,",
+      "title": "La virtu trionfante, dell''amore, e dell''odio, overo Il tigrane, RV.740,",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 98
@@ -170448,7 +170448,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "11949",
-      "title": "O mie porpore più belle, RV.685",
+      "title": "O mie porpore piu belle, RV.685",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 98
@@ -170875,7 +170875,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "11916",
-      "title": "Sì levi dal pensier, RV.665",
+      "title": "Si levi dal pensier, RV.665",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 98
@@ -172135,7 +172135,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15772",
-      "title": "Götterdammerung, WWV 86d",
+      "title": "Gotterdammerung, WWV 86d",
       "subtitle": "Opera",
       "genre": "Stage",
       "composer_id": 138
@@ -172338,7 +172338,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15762",
-      "title": "König Enzio, WWV 24",
+      "title": "Konig Enzio, WWV 24",
       "subtitle": "Overture",
       "genre": "Orchestral",
       "composer_id": 138
@@ -173122,7 +173122,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19235",
-      "title": "9 Variations on a Russian air ;Schöne Minka,'' J.179, op. 40",
+      "title": "9 Variations on a Russian air ;Schone Minka,'' J.179, op. 40",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 168
@@ -173248,14 +173248,14 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19208",
-      "title": "Das Madchen an das erste Schneeglöckchen, song for voice and piano, J.267, op. 71, no. 3, \"Was bricht hervor\"",
+      "title": "Das Madchen an das erste Schneeglockchen, song for voice and piano, J.267, op. 71, no. 3, \"Was bricht hervor\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 168
     },
     {
       "id": "19219",
-      "title": "Das Röschen, song for voice and piano, J.67, op. 15, no. 5, \"Ich sah ein Röschen\"",
+      "title": "Das Roschen, song for voice and piano, J.67, op. 15, no. 5, \"Ich sah ein Roschen\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 168
@@ -173276,7 +173276,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19206",
-      "title": "Ein König einst gefangen saß, romance for voice and guitar, J.195",
+      "title": "Ein Konig einst gefangen saß, romance for voice and guitar, J.195",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 168
@@ -173598,7 +173598,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "19250",
-      "title": "Wiegenlied, song for voice and guitar, J.96, op. 13, no. 2, \"Schlaf, Herzenssöhnchen\"",
+      "title": "Wiegenlied, song for voice and guitar, J.96, op. 13, no. 2, \"Schlaf, Herzenssohnchen\"",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 168
@@ -174095,7 +174095,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15233",
-      "title": "Das schöne Kind",
+      "title": "Das schone Kind",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 131
@@ -174410,7 +174410,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "15210",
-      "title": "Youkali, tango habañera",
+      "title": "Youkali, tango habanera",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 131
@@ -174872,7 +174872,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17946",
-      "title": "An Himmelshöhn die Sterne gehn, for chorus",
+      "title": "An Himmelshohn die Sterne gehn, for chorus",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
@@ -174963,7 +174963,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17957",
-      "title": "Es war ein alter König",
+      "title": "Es war ein alter Konig",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
@@ -174998,7 +174998,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17988",
-      "title": "Gedichte von Scheffel, Mörike, Goethe und Kerner",
+      "title": "Gedichte von Scheffel, Morike, Goethe und Kerner",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
@@ -175096,7 +175096,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17984",
-      "title": "Ja, die Schönst! ich sagt es offen ",
+      "title": "Ja, die Schonst! ich sagt es offen ",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
@@ -175152,7 +175152,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17947",
-      "title": "Mir traumte von einem Königskind",
+      "title": "Mir traumte von einem Konigskind",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
@@ -175173,7 +175173,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "17931",
-      "title": "Mörike Lieder, for voice and piano",
+      "title": "Morike Lieder, for voice and piano",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 161
@@ -175362,7 +175362,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1491",
-      "title": "Pleïades, for 6 percussionists",
+      "title": "Pleiades, for 6 percussionists",
       "subtitle": "",
       "genre": "Chamber",
       "composer_id": 17
@@ -175432,7 +175432,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1495",
-      "title": "Aïs, for amplified baritone, solo percussion and orchestra",
+      "title": "Ais, for amplified baritone, solo percussion and orchestra",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 17
@@ -175565,7 +175565,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1508",
-      "title": "Khoaï, for harpsichord",
+      "title": "Khoai, for harpsichord",
       "subtitle": "",
       "genre": "Keyboard",
       "composer_id": 17
@@ -175579,7 +175579,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1519",
-      "title": "Krinoïdi, for 71 musicians",
+      "title": "Krinoidi, for 71 musicians",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 17
@@ -175656,7 +175656,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1506",
-      "title": "Oresteïa, for children''s chorus, chorus and 12 musicians",
+      "title": "Oresteia, for children''s chorus, chorus and 12 musicians",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 17
@@ -175691,7 +175691,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1530",
-      "title": "Roaï, for 90 musicians",
+      "title": "Roai, for 90 musicians",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 17
@@ -175726,7 +175726,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1536",
-      "title": "Synaphaï, for piano and 86 musicians",
+      "title": "Synaphai, for piano and 86 musicians",
       "subtitle": "",
       "genre": "Orchestral",
       "composer_id": 17
@@ -176020,7 +176020,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2054",
-      "title": "Der Traumgörge, opera",
+      "title": "Der Traumgorge, opera",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 25
@@ -176048,7 +176048,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2053",
-      "title": "Eine Florentinische Tragödie, opera, op. 16",
+      "title": "Eine Florentinische Tragodie, opera, op. 16",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 25
@@ -176125,7 +176125,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "1996",
-      "title": "König Kandaules, opera",
+      "title": "Konig Kandaules, opera",
       "subtitle": "",
       "genre": "Stage",
       "composer_id": 25
@@ -176363,7 +176363,7 @@ FROM json_populate_recordset (NULL::works,
     },
     {
       "id": "2041",
-      "title": "Zwölf Lieder op.27",
+      "title": "Zwolf Lieder op.27",
       "subtitle": "",
       "genre": "Vocal",
       "composer_id": 25
