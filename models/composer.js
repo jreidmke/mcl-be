@@ -27,11 +27,17 @@ class Composer {
 
         for(let a of alphaString) {
             const resp = await axios.get(`https://api.openopus.org/composer/list/name/${a}.json`);
-            for(let c of resp.data.composers) {
-                c.name = await this.encodeName(c.name);
-                c.complete_name = await this.encodeName(c.complete_name);
+            if(resp.data.composers) {
+                for(let c of resp.data.composers) {
+                    c.name = await this.encodeName(c.name);
+                    c.complete_name = await this.encodeName(c.complete_name);
+                    if(c.name.indexOf("'") !== -1) {
+                        c.name = this.apostrophe(c.name);
+                        c.complete_name = this.apostrophe(c.complete_name);
+                    } 
+                };
+                composerArr.push(resp.data.composers);
             }
-            if(resp.data.composers) composerArr.push(resp.data.composers);
         };
 
         return composerArr.flat();
@@ -44,6 +50,10 @@ class Composer {
             }
         };
         return name;
+    };
+
+    static async apostrophe(name) {
+        return name.slice(0, name.indexOf("'")) + "'" + name.slice(name.indexOf("'"));
     }
 }
 
