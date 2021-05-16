@@ -28,7 +28,7 @@ class Work {
             FROM composers`
         );
 
-        // const ids = idsRes.rows.map(i => i.id);
+        const ids = idsRes.rows.map(i => i.id);
         
         const ids = [192];
 
@@ -43,9 +43,6 @@ class Work {
                         genre: w.genre,
                         composer_id: id
                     };
-
-                    if(workObj.title.indexOf('/"') !== -1) workObj.title = slashes(workObj.title)
-                    if(workObj.subtitle.indexOf('/"') !== -1) workObj.subtitle = slashes(workObj.subtitle)
 
                     workArr.push(workObj);
                 }
@@ -64,9 +61,7 @@ class Work {
         return name;
     };
 
-    static async apostrophe(name) {
-        return name.replaceAll('/"', "");
-    }
 }
 
 module.exports = Work;
+// workObj.title = await this.slashes(workObj.title)
