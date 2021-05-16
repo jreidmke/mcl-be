@@ -28,8 +28,8 @@ class Work {
             FROM composers`
         );
 
-        // const ids = idsRes.rows.map(i => i.id);
-        const ids = [87];
+        const ids = idsRes.rows.map(i => i.id);
+        // const ids = [87];
 
         for(let id of ids) {
             const resp = await axios.get(`https://api.openopus.org/work/list/composer/${id}/genre/all.json`);
